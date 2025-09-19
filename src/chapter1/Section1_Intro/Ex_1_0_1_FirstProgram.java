@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.Section1_Intro;
 
 public class Ex_1_0_1_FirstProgram {
     public static void main(String[] args) {

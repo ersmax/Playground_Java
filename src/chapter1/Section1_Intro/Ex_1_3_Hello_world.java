@@ -4,7 +4,7 @@ following to the screen when run:
 Hello World!
  */
 
-package chapter1;
+package chapter1.Section1_Intro;
 
 public class Ex_1_3_Hello_world {
     public static void main (String [] args) {

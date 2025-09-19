@@ -5,7 +5,7 @@ I like Java.
 You like tea.
  */
 
-package chapter1;
+package chapter1.Section1_Intro;
 public class Ex_1_2_Output_string {
     public static void main (String[] args) {
         System.out.println("I like Java.\n" +

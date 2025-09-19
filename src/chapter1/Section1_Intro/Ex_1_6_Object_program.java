@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.Section1_Intro;
 
 public class Ex_1_6_Object_program {
     /*

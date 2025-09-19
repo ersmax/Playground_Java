@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,11 +55,11 @@
 }</component>
   <component name="RunManager" selected="Application.Ex_1_0_1_FirstProgram">
     <configuration name="Ex_1_0_1_FirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.Ex_1_0_1_FirstProgram" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.Section1_Intro.Ex_1_0_1_FirstProgram" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="chapter1.Section1_Intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,11 +68,11 @@
       </method>
     </configuration>
     <configuration name="Ex_1_1_Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.Ex_1_1_Statement" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.Section1_Intro.Ex_1_1_Statement" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="chapter1.Section1_Intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +81,11 @@
       </method>
     </configuration>
     <configuration name="Ex_1_2_Output_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.Ex_1_2_Output_string" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.Section1_Intro.Ex_1_2_Output_string" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="chapter1.Section1_Intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="Ex_1_3_Hello_world" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.Ex_1_3_Hello_world" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.Section1_Intro.Ex_1_3_Hello_world" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="chapter1.Section1_Intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,7 +111,7 @@
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="chapter1.Section1_Intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

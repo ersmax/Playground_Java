@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.Section1_Intro;
 
 public class Ex_1_7_Java_byte_code {
     // What do you call a program that runs Java byte-code instructions?
