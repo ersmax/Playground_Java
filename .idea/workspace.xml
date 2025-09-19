@@ -53,7 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex_1_0_1_FirstProgram">
+  <component name="RunManager" selected="Application.Ex_2_6_Assignment2">
     <configuration name="Ex_1_0_1_FirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.Section1_Intro.Ex_1_0_1_FirstProgram" />
       <module name="Playground" />
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1.Test" />
+    <configuration name="Ex_2_6_Assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.Section2_Expressions.Ex_2_6_Assignment2" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.Section1_Intro.*" />
+          <option name="PATTERN" value="chapter1.Section2_Expressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_2_6_Assignment2" />
         <item itemvalue="Application.Ex_1_0_1_FirstProgram" />
         <item itemvalue="Application.Ex_1_3_Hello_world" />
         <item itemvalue="Application.Ex_1_2_Output_string" />
