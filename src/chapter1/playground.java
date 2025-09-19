@@ -6,7 +6,7 @@ I like Java.
 You like tea.
  */
 
-package Chapter1;
+package chapter1;
 
 public class playground {
     public static void main (String[] args) {

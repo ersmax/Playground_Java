@@ -4,9 +4,9 @@ following to the screen when run:
 Hello World!
  */
 
-package Chapter1;
+package chapter1;
 
-public class _1_3_Hello_world {
+public class Ex_1_3_Hello_world {
     public static void main (String [] args) {
         System.out.println("Hello Wold!");
     }

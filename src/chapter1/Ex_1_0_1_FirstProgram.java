@@ -1,6 +1,6 @@
-package Chapter1;
+package chapter1;
 
-public class _1_0_1_FirstProgram {
+public class Ex_1_0_1_FirstProgram {
     public static void main(String[] args) {
         System.out.print("Hello reader.");
         System.out.println(" Welcome to Java.");

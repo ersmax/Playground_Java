@@ -5,9 +5,10 @@ I like Java.
 You like tea.
  */
 
-package Chapter1;
-public class _1_2_Output_string {
+package chapter1;
+public class Ex_1_2_Output_string {
     public static void main (String[] args) {
-        System.out.println("I like Java.\nYou like tea.");
+        System.out.println("I like Java.\n" +
+                "You like tea.");
     }
 }
