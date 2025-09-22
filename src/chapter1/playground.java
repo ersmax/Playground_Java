@@ -11,5 +11,8 @@ package chapter1;
 public class playground {
     public static void main (String[] args) {
         System.out.println("I like Java.\nYou like tea.");
+        int a = 10;
+        byte  b;
+
     }
 }

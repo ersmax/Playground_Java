@@ -6,7 +6,7 @@ interest to the value of the variable balance multiplied by the value of the
 variable rate. The variables are of type double.
  */
 
-public class Ex_2_6_Assignment2 {
+public class Ex_2_15_Assignment2 {
     public static void main(String[] args) {
         double balance, rate;
         balance = 5;

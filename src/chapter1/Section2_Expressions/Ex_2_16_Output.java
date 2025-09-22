@@ -11,7 +11,7 @@ System.out.println(a);
  */
 
 
-public class Ex_2_7_Output {
+public class Ex_2_16_Output {
     public static void main(String[] args) {
         char a, b;
         a = 'b';
