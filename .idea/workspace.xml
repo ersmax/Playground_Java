@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/Section3_String/Ex_2_31_Increase_age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Section3_String/Ex_2_31_Increase_age.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +55,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex_2_31_Increase_age">
-    <configuration name="Ex_2_28_String_output_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.Section3_String.Ex_2_28_String_output_5" />
+  <component name="RunManager" selected="Application.Ex_2_0_2_Interests">
+    <configuration name="Ex_2_0_2_Interests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.Section3_String.Ex_2_0_2_Interests" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_2_0_2_Interests" />
         <item itemvalue="Application.Ex_2_31_Increase_age" />
         <item itemvalue="Application.Ex_2_32_Lower_case_problem" />
         <item itemvalue="Application.Ex_2_30_String_concatenation" />
         <item itemvalue="Application.Ex_2_29_String_output_6" />
-        <item itemvalue="Application.Ex_2_28_String_output_5" />
       </list>
     </recent_temporary>
   </component>
