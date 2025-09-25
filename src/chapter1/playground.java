@@ -10,10 +10,7 @@ package chapter1;
 
 public class playground {
     public static void main (String[] args) {
-        int x = 2, y = 3, z = 4;
-        int a = 3*x;
-        int b = 3*x + y;
-        double c = (x + y) / 7.0;   //
-        double d = (3*x + y) / (z + 2.0);
+        String entry = "Zoo";
+        System.out.println(entry.compareToIgnoreCase("entry"));
     }
 }
