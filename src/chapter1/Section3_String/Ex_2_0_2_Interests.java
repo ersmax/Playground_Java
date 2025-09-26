@@ -1,9 +1,9 @@
 package chapter1.Section3_String;
 
+/**
+ Program that shows interest on a sample account balance
+*/
 public class Ex_2_0_2_Interests {
-    /**
-     Program that shows interest on a sample account balance
-    */
     public static final double INTEREST_RATE = 2.5;
 
     public static void main(String[] args) {
