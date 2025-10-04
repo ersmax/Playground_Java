@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,7 @@
     "Application.Ex_2_4_Output.executor": "Run",
     "Application.Ex_2_5_Format_string_output.executor": "Run",
     "Application.Ex_2_6_Format_specifier.executor": "Run",
+    "Application.Ex_2_7_eNotation.executor": "Run",
     "Application.playground.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,22 +62,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex_2_6_Format_specifier">
+  <component name="RunManager" selected="Application.Ex_2_7_eNotation">
     <configuration name="Ex_2_0_1_Format_specifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_2_0_1_Format_specifiers" />
-      <module name="Playground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.Section1_Output.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_2_4_Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_2_4_Output" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -116,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex_2_7_eNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_2_7_eNotation" />
+      <module name="Playground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.Section1_Output.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.playground" />
       <module name="Playground" />
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_2_7_eNotation" />
         <item itemvalue="Application.Ex_2_6_Format_specifier" />
         <item itemvalue="Application.Ex_2_5_Format_string_output" />
         <item itemvalue="Application.Ex_2_0_1_Format_specifiers" />
         <item itemvalue="Application.playground" />
-        <item itemvalue="Application.Ex_2_4_Output" />
       </list>
     </recent_temporary>
   </component>
