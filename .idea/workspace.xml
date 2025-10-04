@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/Section1_Output/Ex_2_0_2_NumberFormat_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Section1_Output/Ex_2_0_2_NumberFormat_class.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
     "Application.Ex_2_5_Format_string_output.executor": "Run",
     "Application.Ex_2_6_Format_specifier.executor": "Run",
     "Application.Ex_2_7_eNotation.executor": "Run",
+    "Application.Ex_2_8_NumberFormatter_currency_output.executor": "Run",
     "Application.playground.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,20 +66,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex_2_0_2_NumberFormat_class">
-    <configuration name="Ex_2_0_1_Format_specifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_2_0_1_Format_specifiers" />
-      <module name="Playground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.Section1_Output.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex_2_8_NumberFormatter_currency_output">
     <configuration name="Ex_2_0_2_NumberFormat_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_2_0_2_NumberFormat_class" />
       <module name="Playground" />
@@ -132,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex_2_8_NumberFormatter_currency_output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_2_8_NumberFormatter_currency_output" />
+      <module name="Playground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.Section1_Output.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_2_8_NumberFormatter_currency_output" />
         <item itemvalue="Application.Ex_2_0_2_NumberFormat_class" />
         <item itemvalue="Application.Ex_2_7_eNotation" />
         <item itemvalue="Application.Ex_2_6_Format_specifier" />
         <item itemvalue="Application.Ex_2_5_Format_string_output" />
-        <item itemvalue="Application.Ex_2_0_1_Format_specifiers" />
       </list>
     </recent_temporary>
   </component>
