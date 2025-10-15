@@ -34,7 +34,7 @@ public class Ex_2_0_2_Scanner_input2 {
                             + word2 + "\"");
 
         System.out.println("Next enter a line of text:");
-        // Get rid of "\n" first, then read new line
+        // Get rid of "\n" from the last insertion, then read new line
         scannerObject.nextLine();
         String line = scannerObject.nextLine();
         System.out.println("You entered: \"" + line + "\"");
