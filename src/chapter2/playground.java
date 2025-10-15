@@ -1,5 +1,7 @@
 package chapter2;
 
+import java.text.DecimalFormat;
+
 public class playground {
     public static void main(String[] args) {
         double price = 19.8;
@@ -11,5 +13,9 @@ public class playground {
         System.out.printf("$%-6.2f each.%n", price);  // left-justified
         System.out.printf("letter%2c\n", char1);
 
+        double numb = 19.0008;
+        DecimalFormat formattingObject = new DecimalFormat("#0.0##");
+        String numeral = formattingObject.format(numb);
+        System.out.println(numeral);
     }
 }
