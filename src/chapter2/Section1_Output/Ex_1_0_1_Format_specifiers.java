@@ -4,7 +4,7 @@ Some examples of format specifiers in Java with printf library.
 
 package chapter2.Section1_Output;
 
-public class Ex_2_0_1_Format_specifiers {
+public class Ex_1_0_1_Format_specifiers {
     public static void main(String[] args) {
         String aString = "abc";
 

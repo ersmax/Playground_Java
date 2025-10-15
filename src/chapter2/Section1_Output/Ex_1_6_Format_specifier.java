@@ -9,7 +9,7 @@ System.out.printf("START%sEND %n %9.4f %n", aString, d);
 
 package chapter2.Section1_Output;
 
-public class Ex_2_6_Format_specifier {
+public class Ex_1_6_Format_specifier {
     public static void main(String[] args) {
         String aString = "Jelly beans";
         double d = 123.1234567890;

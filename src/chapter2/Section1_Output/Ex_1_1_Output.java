@@ -8,7 +8,7 @@ System.out.println(s);
 
 package chapter2.Section1_Output;
 
-public class Ex_2_1_Output {
+public class Ex_1_1_Output {
     public static void main(String[] args) {
         String s = "Hello" + "Joe";
         System.out.println(s);

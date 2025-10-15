@@ -6,7 +6,7 @@ One two buckle your shoe.
 Three four shut the door.
  */
 
-public class Ex_2_2_Output {
+public class Ex_1_2_Output {
     public static void main(String[] args) {
         System.out.print("One two buckle your shoe.\n");
         System.out.println("Three four shut the door.");

@@ -4,7 +4,7 @@ This program demonstrates the use of the DecimalFormat class.
  */
 import java.text.DecimalFormat;
 
-public class Ex_2_0_3_DecimalFormat_class {
+public class Ex_1_0_3_DecimalFormat_class {
     public static void main(String[] args) {
         DecimalFormat pattern00dot000 = new DecimalFormat("00.000");
         DecimalFormat pattern0dot00 = new DecimalFormat("0.00");

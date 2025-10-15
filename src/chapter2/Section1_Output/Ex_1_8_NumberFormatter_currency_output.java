@@ -13,7 +13,7 @@ System.out.println(exerciseFormatter.format(d2));
 import java.text.NumberFormat;
 import java.util.Locale;
 
-public class Ex_2_8_NumberFormatter_currency_output {
+public class Ex_1_8_NumberFormatter_currency_output {
     public static void main(String[] args) {
         NumberFormat exerciseFormatter = NumberFormat.getCurrencyInstance(Locale.US);
 

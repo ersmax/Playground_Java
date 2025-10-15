@@ -68,9 +68,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex_2_0_3_DecimalFormat_class">
-    <configuration name="Ex_2_0_2_NumberFormat_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_2_0_2_NumberFormat_class" />
+  <component name="RunManager" selected="Application.Ex_1_0_3_DecimalFormat_class">
+    <configuration name="Ex_1_0_2_NumberFormat_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_1_0_2_NumberFormat_class" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_2_0_3_DecimalFormat_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_2_0_3_DecimalFormat_class" />
+    <configuration name="Ex_1_0_3_DecimalFormat_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_1_0_3_DecimalFormat_class" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_2_7_eNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_2_7_eNotation" />
+    <configuration name="Ex_1_7_eNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_1_7_eNotation" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_2_8_NumberFormatter_currency_output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_2_8_NumberFormatter_currency_output" />
+    <configuration name="Ex_1_8_NumberFormatter_currency_output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_1_8_NumberFormatter_currency_output" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex_2_0_3_DecimalFormat_class" />
+        <item itemvalue="Application.Ex_1_0_3_DecimalFormat_class" />
         <item itemvalue="Application.playground" />
-        <item itemvalue="Application.Ex_2_8_NumberFormatter_currency_output" />
-        <item itemvalue="Application.Ex_2_0_2_NumberFormat_class" />
-        <item itemvalue="Application.Ex_2_7_eNotation" />
+        <item itemvalue="Application.Ex_1_8_NumberFormatter_currency_output" />
+        <item itemvalue="Application.Ex_1_0_2_NumberFormat_class" />
+        <item itemvalue="Application.Ex_1_7_eNotation" />
       </list>
     </recent_temporary>
   </component>

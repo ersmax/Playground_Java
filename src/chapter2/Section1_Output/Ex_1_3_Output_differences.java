@@ -8,5 +8,5 @@ What is the difference between System.out.println and System.out.print?
 // keeping the cursor on the same line.
 package chapter2.Section1_Output;
 
-public class Ex_2_3_Output_differences {
+public class Ex_1_3_Output_differences {
 }

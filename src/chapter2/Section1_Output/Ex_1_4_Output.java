@@ -10,7 +10,7 @@ System.out.println(2 + 2);
 
 package chapter2.Section1_Output;
 
-public class Ex_2_4_Output {
+public class Ex_1_4_Output {
     public static void main(String[] args) {
         System.out.println(2 + " " + 2);
         System.out.println(2 + 2);

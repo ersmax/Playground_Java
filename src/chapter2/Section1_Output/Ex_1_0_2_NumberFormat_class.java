@@ -7,7 +7,7 @@ This program demonstrates the use of the NumberFormat class.
 import java.text.NumberFormat;
 import java.util.Locale;
 
-public class Ex_2_0_2_NumberFormat_class {
+public class Ex_1_0_2_NumberFormat_class {
     public static void main(String[] args) {
         double money = 9.99;
 
