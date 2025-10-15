@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/Section1_Output/Ex_1_9_Importing_packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Section1_Output/Ex_1_9_Importing_packages.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
     "Application.Ex_2_0_1_Format_specifiers.executor": "Run",
     "Application.Ex_2_0_1_Scanner_input.executor": "Run",
     "Application.Ex_2_0_2_NumberFormat_class.executor": "Run",
+    "Application.Ex_2_0_2_Scanner_input2.executor": "Run",
     "Application.Ex_2_0_3_DecimalFormat_class.executor": "Run",
     "Application.Ex_2_1_Output.executor": "Run",
     "Application.Ex_2_2_Output.executor": "Run",
@@ -70,20 +70,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex_2_0_1_Scanner_input">
-    <configuration name="Ex_1_0_2_NumberFormat_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_1_0_2_NumberFormat_class" />
-      <module name="Playground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.Section1_Output.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex_2_0_2_Scanner_input2">
     <configuration name="Ex_1_0_3_DecimalFormat_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_1_0_3_DecimalFormat_class" />
       <module name="Playground" />
@@ -123,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex_2_0_2_Scanner_input2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_Scanner.Ex_2_0_2_Scanner_input2" />
+      <module name="Playground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.Section2_Input_Scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.playground" />
       <module name="Playground" />
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_2_0_2_Scanner_input2" />
         <item itemvalue="Application.Ex_2_0_1_Scanner_input" />
         <item itemvalue="Application.Ex_1_0_3_DecimalFormat_class" />
         <item itemvalue="Application.playground" />
         <item itemvalue="Application.Ex_1_8_NumberFormatter_currency_output" />
-        <item itemvalue="Application.Ex_1_0_2_NumberFormat_class" />
       </list>
     </recent_temporary>
   </component>
