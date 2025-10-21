@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,42 +38,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Ex_1_0_3_DecimalFormat_class.executor": "Run",
-    "Application.Ex_2_0_1_Format_specifiers.executor": "Run",
-    "Application.Ex_2_0_1_Scanner_input.executor": "Run",
-    "Application.Ex_2_0_2_NumberFormat_class.executor": "Run",
-    "Application.Ex_2_0_2_Scanner_input2.executor": "Run",
-    "Application.Ex_2_0_3_DecimalFormat_class.executor": "Run",
-    "Application.Ex_2_0_3_Self_service.executor": "Run",
-    "Application.Ex_2_0_4_Output_Input_Delimiters.executor": "Run",
-    "Application.Ex_2_0_5_Read_File.executor": "Run",
-    "Application.Ex_2_13_Sum.executor": "Run",
-    "Application.Ex_2_14_Scanner_line.executor": "Run",
-    "Application.Ex_2_15_Scanne_nextLine.executor": "Run",
-    "Application.Ex_2_1_Output.executor": "Run",
-    "Application.Ex_2_2_Output.executor": "Run",
-    "Application.Ex_2_4_Output.executor": "Run",
-    "Application.Ex_2_5_Format_string_output.executor": "Run",
-    "Application.Ex_2_6_Format_specifier.executor": "Run",
-    "Application.Ex_2_7_eNotation.executor": "Run",
-    "Application.Ex_2_8_NumberFormatter_currency_output.executor": "Run",
-    "Application.playground.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "last_opened_file_path": "D:/Java/Playground",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ex_1_0_3_DecimalFormat_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_1_Format_specifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_1_Scanner_input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_2_NumberFormat_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_2_Scanner_input2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_3_DecimalFormat_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_3_Self_service.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_4_Output_Input_Delimiters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_5_Read_File.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_13_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_14_Scanner_line.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_15_Scanne_nextLine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_1_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_2_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_4_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_5_Format_string_output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_6_Format_specifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_7_eNotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_8_NumberFormatter_currency_output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.playground.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/Playground&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Ex_2_0_5_Read_File">
     <configuration name="Ex_2_0_4_Output_Input_Delimiters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_Scanner.Ex_2_0_4_Output_Input_Delimiters" />
