@@ -55,6 +55,7 @@
     "Application.Ex_2_14_Scanner_line.executor": "Run",
     "Application.Ex_2_15_Scanne_nextLine.executor": "Run",
     "Application.Ex_2_16_Comma_Delimiter.executor": "Run",
+    "Application.Ex_2_19_Try_Catch_File_Open.executor": "Run",
     "Application.Ex_2_1_Output.executor": "Run",
     "Application.Ex_2_2_Output.executor": "Run",
     "Application.Ex_2_4_Output.executor": "Run",
@@ -77,7 +78,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex_2_16_Comma_Delimiter">
+  <component name="RunManager" selected="Application.Ex_2_19_Try_Catch_File_Open">
     <configuration name="Ex_2_0_4_Output_Input_Delimiters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_File_Scanner.Ex_2_0_4_Output_Input_Delimiters" />
       <module name="Playground" />
@@ -93,19 +94,6 @@
     </configuration>
     <configuration name="Ex_2_0_5_Read_File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_File_Scanner.Ex_2_0_5_Read_File" />
-      <module name="Playground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.Section2_Input_File_Scanner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_2_14_Scanner_line" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_File_Scanner.Ex_2_14_Scanner_line" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -143,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex_2_19_Try_Catch_File_Open" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_File_Scanner.Ex_2_19_Try_Catch_File_Open" />
+      <module name="Playground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.Section2_Input_File_Scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_2_19_Try_Catch_File_Open" />
         <item itemvalue="Application.Ex_2_16_Comma_Delimiter" />
         <item itemvalue="Application.Ex_2_0_5_Read_File" />
         <item itemvalue="Application.Ex_2_0_4_Output_Input_Delimiters" />
         <item itemvalue="Application.Ex_2_15_Scanne_nextLine" />
-        <item itemvalue="Application.Ex_2_14_Scanner_line" />
       </list>
     </recent_temporary>
   </component>
