@@ -49,8 +49,7 @@ Feel free to explore each file for code examples and explanations.
 - [`Ex_2_11_Var_names.java`](src/chapter1/Section2_Expressions/Ex_2_11_Var_names.java)
   *Shows that Java is case-sensitive by declaring variables with similar names.*
 
-- [`Ex_2_12_Var_definition.java`](src/chapter1/Section2_Expressions/Ex_2_12_Var_definition.java)
-  *Declares and initializes two integer variables: `feet` and `inches`.*
+- [`Ex_2_12_Var_definition.java`](src/chapter1/Section2_Expressions/Ex_2_12_Var_definition.java) *Declares and initializes two integer variables: `feet` and `inches`.*
 
 - [`Ex_2_13_Var_definition2.java`](src/chapter1/Section2_Expressions/Ex_2_13_Var_definition2.java)
   *Declares and initializes an integer and a double variable.*
