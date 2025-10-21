@@ -1,8 +1,7 @@
 # Java Practice Playground
 
 This repository contains practical exercises to practice Java 8 from Walter Savitch's book **Absolute Java**.
-This section is for theoretical programs.
-For practical, project-oriented programs, see the other repository `Programming_Projects_Java`.
+This section is for theoretical programs.For project-oriented programs, see the other repo `Programming_Projects_Java`.
 Feel free to explore each file for code examples and explanations.
 
 ---
