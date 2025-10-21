@@ -137,4 +137,46 @@ This repository contains practical exercises from Walter Savitch's book **Absolu
 
 ---
 
+## Chapter 2: Section 1 Output
+
+### Exercises
+
+- [`Ex_1_0_1_Format_specifiers.java`](src/chapter2/Section1_Output/Ex_1_0_1_Format_specifiers.java)  
+  \*Shows examples of format specifiers in Java using `printf` for strings, characters, and floating-point numbers.
+
+- [`Ex_1_0_2_NumberFormat_class.java`](src/chapter2/Section1_Output/Ex_1_0_2_NumberFormat_class.java)  
+  \*Demonstrates the use of `NumberFormat` to format currency values for different locales.
+
+- [`Ex_1_0_3_DecimalFormat_class.java`](src/chapter2/Section1_Output/Ex_1_0_3_DecimalFormat_class.java)  
+  \*Uses `DecimalFormat` to format numbers, percentages, and scientific notation.
+
+- [`Ex_1_1_Output.java`](src/chapter2/Section1_Output/Ex_1_1_Output.java)  
+  \*Shows string concatenation and output.
+
+- [`Ex_1_2_Output.java`](src/chapter2/Section1_Output/Ex_1_2_Output.java)  
+  \*Outputs multiple lines using escape sequences.
+
+- [`Ex_1_3_Output_differences.java`](src/chapter2/Section1_Output/Ex_1_3_Output_differences.java)  
+  \*Explains the difference between `System.out.print` and `System.out.println`.
+
+- [`Ex_1_4_Output.java`](src/chapter2/Section1_Output/Ex_1_4_Output.java)  
+  \*Shows output differences between string concatenation and integer addition.
+
+- [`Ex_1_5_Format_string_output.java`](src/chapter2/Section1_Output/Ex_1_5_Format_string_output.java)  
+  \*Demonstrates formatted string output with different field widths.
+
+- [`Ex_1_6_Format_specifier.java`](src/chapter2/Section1_Output/Ex_1_6_Format_specifier.java)  
+  \*Shows formatted output for strings and floating-point numbers, describing blank spaces.
+
+- [`Ex_1_7_eNotation.java`](src/chapter2/Section1_Output/Ex_1_7_eNotation.java)  
+  \*Outputs a double value in scientific notation with three decimal places and a field width of 15.
+
+- [`Ex_1_8_NumberFormatter_currency_output.java`](src/chapter2/Section1_Output/Ex_1_8_NumberFormatter_currency_output.java)  
+  \*Formats double values as US currency using `NumberFormat`.
+
+- [`Ex_1_9_Importing_packages.java`](src/chapter2/Section1_Output/Ex_1_9_Importing_packages.java)  
+  \*Shows how to import a class from a package in Java.
+
+---
+
 Feel free to explore each file for code examples and explanations.
