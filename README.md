@@ -90,89 +90,89 @@ Feel free to explore each file for code examples and explanations.
 ## Chapter 1: Section 3 String
 
 - [`Ex_2_0_1_Replace_word.java`](src/chapter1/Section3_String/Ex_2_0_1_Replace_word.java)  
-  *Replaces a word in a sentence without using the `replace()` method.
+  *Replaces a word in a sentence without using the `replace()` method.*
 
 - [`Ex_2_0_2_Interests.java`](src/chapter1/Section3_String/Ex_2_0_2_Interests.java)  
-  *Calculates and displays interest earned on a sample account balance.
+  *Calculates and displays interest earned on a sample account balance.*
 
 - [`Ex_2_24_String_output.java`](src/chapter1/Section3_String/Ex_2_24_String_output.java)  
-  *Shows string concatenation output with `"Time is money"`.
+  *Shows string concatenation output with `"Time is money"`.*
 
 - [`Ex_2_25_Output.java`](src/chapter1/Section3_String/Ex_2_25_Output.java)  
-  *Displays string length and character at a specific index.
+  *Displays string length and character at a specific index.*
 
 - [`Ex_2_26_String_output_3.java`](src/chapter1/Section3_String/Ex_2_26_String_output_3.java)  
-  *Outputs a substring starting from a given index.
+  *Outputs a substring starting from a given index.*
 
 - [`Ex_2_27_String_output_4.java`](src/chapter1/Section3_String/Ex_2_27_String_output_4.java)  
-  *Demonstrates newline escape sequence in string output.
+  *Demonstrates newline escape sequence in string output.*
 
 - [`Ex_2_28_String_output_5.java`](src/chapter1/Section3_String/Ex_2_28_String_output_5.java)  
-  *Shows output with a backslash in a string.
+  *Shows output with a backslash in a string.*
 
 - [`Ex_2_29_String_output_6.java`](src/chapter1/Section3_String/Ex_2_29_String_output_6.java)  
-  *Converts a string to uppercase and prints the result.
+  *Converts a string to uppercase and prints the result.*
 
 - [`Ex_2_30_String_concatenation.java`](src/chapter1/Section3_String/Ex_2_30_String_concatenation.java)  
-  *Demonstrates string concatenation and operator precedence.
+  *Demonstrates string concatenation and operator precedence.*
 
 - [`Ex_2_31_Increase_age.java`](src/chapter1/Section3_String/Ex_2_31_Increase_age.java)  
-  *Shows how to invoke a method to increase a person's age.
+  *Shows how to invoke a method to increase a person's age.*
 
 - [`Ex_2_32_Lower_case_problem.java`](src/chapter1/Section3_String/Ex_2_32_Lower_case_problem.java)  
-  *Fixes a common mistake when converting a string to lowercase.
+  *Fixes a common mistake when converting a string to lowercase.*
 
 - [`Ex_2_33_Comments.java`](src/chapter1/Section3_String/Ex_2_33_Comments.java)  
-  *Explains the two kinds of comments in Java.
+  *Explains the two kinds of comments in Java.*
 
 - [`Ex_2_34_Comment_output.java`](src/chapter1/Section3_String/Ex_2_34_Comment_output.java)  
-  *Shows output produced by commented and uncommented lines.
+  *Shows output produced by commented and uncommented lines.*
 
 - [`Ex_2_35_Spelling_convention.java`](src/chapter1/Section3_String/Ex_2_35_Spelling_convention.java)  
-  *Describes the naming convention for constants in Java.
+  *Describes the naming convention for constants in Java.*
 
 - [`Ex_2_36_Constant.java`](src/chapter1/Section3_String/Ex_2_36_Constant.java)  
-  *Declares a named constant for the value 42.
+  *Declares a named constant for the value 42.*
 
 ---
 
 ## Chapter 2: Section 1 Output
 
 - [`Ex_1_0_1_Format_specifiers.java`](src/chapter2/Section1_Output/Ex_1_0_1_Format_specifiers.java)  
-  *Shows examples of format specifiers in Java using `printf` for strings, characters, and floating-point numbers.
+  *Shows examples of format specifiers in Java using `printf` for strings, characters, and floating-point numbers.*
 
 - [`Ex_1_0_2_NumberFormat_class.java`](src/chapter2/Section1_Output/Ex_1_0_2_NumberFormat_class.java)  
-  *Demonstrates the use of `NumberFormat` to format currency values for different locales.
+  *Demonstrates the use of `NumberFormat` to format currency values for different locales.*
 
 - [`Ex_1_0_3_DecimalFormat_class.java`](src/chapter2/Section1_Output/Ex_1_0_3_DecimalFormat_class.java)  
-  *Uses `DecimalFormat` to format numbers, percentages, and scientific notation.
+  *Uses `DecimalFormat` to format numbers, percentages, and scientific notation.*
 
 - [`Ex_1_1_Output.java`](src/chapter2/Section1_Output/Ex_1_1_Output.java)  
-  *Shows string concatenation and output.
+  *Shows string concatenation and output.*
 
 - [`Ex_1_2_Output.java`](src/chapter2/Section1_Output/Ex_1_2_Output.java)  
-  *Outputs multiple lines using escape sequences.
+  *Outputs multiple lines using escape sequences.*
 
 - [`Ex_1_3_Output_differences.java`](src/chapter2/Section1_Output/Ex_1_3_Output_differences.java)  
-  *Explains the difference between `System.out.print` and `System.out.println`.
+  *Explains the difference between `System.out.print` and `System.out.println`.*
 
 - [`Ex_1_4_Output.java`](src/chapter2/Section1_Output/Ex_1_4_Output.java)  
-  *Shows output differences between string concatenation and integer addition.
+  *Shows output differences between string concatenation and integer addition.*
 
 - [`Ex_1_5_Format_string_output.java`](src/chapter2/Section1_Output/Ex_1_5_Format_string_output.java)  
-  *Demonstrates formatted string output with different field widths.
+  *Demonstrates formatted string output with different field widths.*
 
 - [`Ex_1_6_Format_specifier.java`](src/chapter2/Section1_Output/Ex_1_6_Format_specifier.java)  
-  *Shows formatted output for strings and floating-point numbers, describing blank spaces.
+  *Shows formatted output for strings and floating-point numbers, describing blank spaces.*
 
 - [`Ex_1_7_eNotation.java`](src/chapter2/Section1_Output/Ex_1_7_eNotation.java)  
-  *Outputs a double value in scientific notation with three decimal places and a field width of 15.
+  *Outputs a double value in scientific notation with three decimal places and a field width of 15.*
 
 - [`Ex_1_8_NumberFormatter_currency_output.java`](src/chapter2/Section1_Output/Ex_1_8_NumberFormatter_currency_output.java)  
-  *Formats double values as US currency using `NumberFormat`.
+  *Formats double values as US currency using `NumberFormat`.*
 
 - [`Ex_1_9_Importing_packages.java`](src/chapter2/Section1_Output/Ex_1_9_Importing_packages.java)  
-  *Shows how to import a class from a package in Java.
+  *Shows how to import a class from a package in Java.*
 
 ---
 
