@@ -8,7 +8,7 @@ named w.
 
 import java.util.Scanner;
 
-public class Ex_2_11_Scanner_p3 {
+public class Ex_2_12_Scanner_p3 {
     public static void main(String[] args) {
         Scanner frank = new Scanner(System.in);
         String w;
