@@ -2,6 +2,8 @@
 This program demonstrates the use of input and output delimiters.
 By changing the delimiters, we can control how input is read
 from the keyboard.
+Try with the following input:
+one two##three##
  */
 
 
