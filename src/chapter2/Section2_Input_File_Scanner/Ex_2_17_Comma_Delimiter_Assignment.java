@@ -12,7 +12,7 @@ package chapter2.Section2_Input_File_Scanner;
 
 import java.util.Scanner;
 
-public class Ex_2_17_Comma_delimiter_p2 {
+public class Ex_2_17_Comma_Delimiter_Assignment {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
         keyboard.useDelimiter(", ");
