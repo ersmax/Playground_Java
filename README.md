@@ -173,5 +173,8 @@ Feel free to explore each file for code examples and explanations.
 - [`Ex_1_9_Importing_packages.java`](src/chapter2/Section1_Output/Ex_1_9_Importing_packages.java)  
   *Shows how to import a class from a package in Java.*
 
+- [`Ex_1_0_1_FirstProgram.java`](src/chapter1/Section1_Intro/Ex_1_0_1_FirstProgram.java)
+  *A simple Java program that prints a greeting and performs a basic calculation.*
+
 ---
 
