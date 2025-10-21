@@ -63,7 +63,7 @@ Feel free to explore each file for code examples and explanations.
 
 ## Chapter 2: Section 1 Output
 
-- [`Ex_1_0_1_Format_specifiers.java`](src/chapter2/Section1_Output/Ex_1_0_1_Format_specifiers.java) — Format specifiers using `printf` for strings, characters, and floating-point numbers.
+- [`Ex_1_0_1_Format_specifiers.java`](src/chapter2/Section1_Output/Ex_1_0_1_Format_specifiers.java) — Format specifiers `printf` for strings, characters, floating-point numbers.
 - [`Ex_1_0_2_NumberFormat_class.java`](src/chapter2/Section1_Output/Ex_1_0_2_NumberFormat_class.java) — Demonstrates the use of `NumberFormat` to format currency values.
 - [`Ex_1_0_3_DecimalFormat_class.java`](src/chapter2/Section1_Output/Ex_1_0_3_DecimalFormat_class.java) — Uses `DecimalFormat` to format numbers, percentages, scientific notation.
 - [`Ex_1_1_Output.java`](src/chapter2/Section1_Output/Ex_1_1_Output.java) — Shows string concatenation and output.
@@ -71,8 +71,8 @@ Feel free to explore each file for code examples and explanations.
 - [`Ex_1_3_Output_differences.java`](src/chapter2/Section1_Output/Ex_1_3_Output_differences.java) — Difference between `System.out.print` and `System.out.println`.
 - [`Ex_1_4_Output.java`](src/chapter2/Section1_Output/Ex_1_4_Output.java) — Shows output differences between string concatenation and integer addition.
 - [`Ex_1_5_Format_string_output.java`](src/chapter2/Section1_Output/Ex_1_5_Format_string_output.java) — Demonstrates formatted string output with different field widths.
-- [`Ex_1_6_Format_specifier.java`](src/chapter2/Section1_Output/Ex_1_6_Format_specifier.java) — Shows formatted output for strings and floating-point numbers, describing blank spaces.
-- [`Ex_1_7_eNotation.java`](src/chapter2/Section1_Output/Ex_1_7_eNotation.java) — Outputs a double value in scientific notation with 3 decimal places and field width of 15.
+- [`Ex_1_6_Format_specifier.java`](src/chapter2/Section1_Output/Ex_1_6_Format_specifier.java) — Formatted output for strings and floating-point numbers, describing blank spaces.
+- [`Ex_1_7_eNotation.java`](src/chapter2/Section1_Output/Ex_1_7_eNotation.java) — Outputs a double in scientific notation with 3 decimal places, field width of 15.
 - [`Ex_1_8_NumberFormatter_currency_output.java`](src/chapter2/Section1_Output/Ex_1_8_NumberFormatter_currency_output.java) — Formats double values as US currency using `NumberFormat`.
 - [`Ex_1_9_Importing_packages.java`](src/chapter2/Section1_Output/Ex_1_9_Importing_packages.java) — Shows how to import a class from a package in Java.
 
