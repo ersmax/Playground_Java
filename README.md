@@ -86,10 +86,6 @@ This repository contains practical exercises from Walter Savitch's book **Absolu
 
 ---
 
-Here is an updated `README.md` with a new section for Chapter 1: Section 3 String, including links and brief descriptions for each exercise.
-
----
-
 ## Chapter 1: Section 3 String
 
 ### Exercises

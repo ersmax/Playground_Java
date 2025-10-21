@@ -1,4 +1,4 @@
-package chapter2.Section2_Input_Scanner;
+package chapter2.Section2_Input_File_Scanner;
 
 /*
 Write a complete Java program that reads in a line of keyboard input

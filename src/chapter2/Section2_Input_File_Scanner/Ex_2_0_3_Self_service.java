@@ -1,4 +1,4 @@
-package chapter2.Section2_Input_Scanner;
+package chapter2.Section2_Input_File_Scanner;
 /*
 This program demonstrates the use of Scanner class on
 a self-service hardware store.

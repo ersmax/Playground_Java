@@ -1,4 +1,4 @@
-package chapter2.Section2_Input_Scanner;
+package chapter2.Section2_Input_File_Scanner;
 
 /*
 Write a line of code that uses the object frank from the previous exercise to

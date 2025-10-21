@@ -1,4 +1,4 @@
-package chapter2.Section2_Input_Scanner;
+package chapter2.Section2_Input_File_Scanner;
 /*
 Write a line of code that creates a Scanner object named frank to be used for
 obtaining keyboard input.

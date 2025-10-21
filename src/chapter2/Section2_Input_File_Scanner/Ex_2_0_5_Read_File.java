@@ -3,7 +3,7 @@ This program demonstrates the use of
 File Input Stream class to read from a file
  */
 
-package chapter2.Section2_Input_Scanner;
+package chapter2.Section2_Input_File_Scanner;
 
 import java.util.Scanner;
 import java.io.FileInputStream;
