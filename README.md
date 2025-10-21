@@ -86,4 +86,59 @@ This repository contains practical exercises from Walter Savitch's book **Absolu
 
 ---
 
+Here is an updated `README.md` with a new section for Chapter 1: Section 3 String, including links and brief descriptions for each exercise.
+
+---
+
+## Chapter 1: Section 3 String
+
+### Exercises
+
+- [`Ex_2_0_1_Replace_word.java`](src/chapter1/Section3_String/Ex_2_0_1_Replace_word.java)  
+  \*Replaces a word in a sentence without using the `replace()` method.
+
+- [`Ex_2_0_2_Interests.java`](src/chapter1/Section3_String/Ex_2_0_2_Interests.java)  
+  \*Calculates and displays interest earned on a sample account balance.
+
+- [`Ex_2_24_String_output.java`](src/chapter1/Section3_String/Ex_2_24_String_output.java)  
+  \*Shows string concatenation output with `"Time is money"`.
+
+- [`Ex_2_25_Output.java`](src/chapter1/Section3_String/Ex_2_25_Output.java)  
+  \*Displays string length and character at a specific index.
+
+- [`Ex_2_26_String_output_3.java`](src/chapter1/Section3_String/Ex_2_26_String_output_3.java)  
+  \*Outputs a substring starting from a given index.
+
+- [`Ex_2_27_String_output_4.java`](src/chapter1/Section3_String/Ex_2_27_String_output_4.java)  
+  \*Demonstrates newline escape sequence in string output.
+
+- [`Ex_2_28_String_output_5.java`](src/chapter1/Section3_String/Ex_2_28_String_output_5.java)  
+  \*Shows output with a backslash in a string.
+
+- [`Ex_2_29_String_output_6.java`](src/chapter1/Section3_String/Ex_2_29_String_output_6.java)  
+  \*Converts a string to uppercase and prints the result.
+
+- [`Ex_2_30_String_concatenation.java`](src/chapter1/Section3_String/Ex_2_30_String_concatenation.java)  
+  \*Demonstrates string concatenation and operator precedence.
+
+- [`Ex_2_31_Increase_age.java`](src/chapter1/Section3_String/Ex_2_31_Increase_age.java)  
+  \*Shows how to invoke a method to increase a person's age.
+
+- [`Ex_2_32_Lower_case_problem.java`](src/chapter1/Section3_String/Ex_2_32_Lower_case_problem.java)  
+  \*Fixes a common mistake when converting a string to lowercase.
+
+- [`Ex_2_33_Comments.java`](src/chapter1/Section3_String/Ex_2_33_Comments.java)  
+  \*Explains the two kinds of comments in Java.
+
+- [`Ex_2_34_Comment_output.java`](src/chapter1/Section3_String/Ex_2_34_Comment_output.java)  
+  \*Shows output produced by commented and uncommented lines.
+
+- [`Ex_2_35_Spelling_convention.java`](src/chapter1/Section3_String/Ex_2_35_Spelling_convention.java)  
+  \*Describes the naming convention for constants in Java.
+
+- [`Ex_2_36_Constant.java`](src/chapter1/Section3_String/Ex_2_36_Constant.java)  
+  \*Declares a named constant for the value 42.
+
+---
+
 Feel free to explore each file for code examples and explanations.
