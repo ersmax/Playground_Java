@@ -11,11 +11,11 @@ String name = keyboard.nextLine();
 System.out.println(name + ",you are " + age + " years old.");
  */
 
-// The problem is that after calling nextInt(), the newline character
+// The problem is that after calling nextInt(), the newline character \n
 // remains in the input buffer. When nextLine() is called, it reads
 // this leftover newline character instead of waiting for user input.
 // To fix this, we can add an extra nextLine() call after nextInt()
-// to consume the leftover newline character.
+// to consume the leftover newline character prior calling nextLine() for the name.
 
 import java.util.Scanner;
 
