@@ -79,10 +79,10 @@ Feel free to explore each file for code examples and explanations.
 
 ## Chapter 2: Section 2 Input Scanner and File Scanner
 
-- [`Ex_2_0_1_Scanner_input.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_1_Scanner_input.java) — Demonstrates the use of the `Scanner` class to read integers from keyboard input.
+- [`Ex_2_0_1_Scanner_input.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_1_Scanner_input.java) — Demonstrates the use of `Scanner` class to read integers from keyboard.
 - [`Ex_2_0_2_Scanner_input2.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_2_Scanner_input2.java) — Uses `Scanner` to read integers, doubles, words, and lines from user input.
-- [`Ex_2_0_3_Self_service.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_3_Self_service.java) — Simulates a self-service store, reading item count and price, and formatting output.
-- [`Ex_2_0_4_Output_Input_Delimiters.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_4_Output_Input_Delimiters.java) — Shows how to change input delimiters in `Scanner` for custom parsing.
+- [`Ex_2_0_3_Self_service.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_3_Self_service.java) — Simulates a self-service store, reading item and price, and formatting output.
+- [`Ex_2_0_4_Output_Input_Delimiters.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_4_Output_Input_Delimiters.java) — Change input delimiters in `Scanner` for custom parsing.
 - [`Ex_2_0_5_Read_File.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_5_Read_File.java) — Demonstrates reading data from a file using `Scanner` and `FileInputStream`.
 - [`Ex_2_0_5_player.txt`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_5_player.txt) — Sample data file for file input demonstration.
 - [`Ex_2_10_Scanner.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_10_Scanner.java) — Shows how to import the `Scanner` class.
