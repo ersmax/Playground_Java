@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/chapter2/Section2_Input_Scanner/Ex_2_0_4_Output_Input_Delimiters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Section2_Input_Scanner/Ex_2_0_4_Output_Input_Delimiters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     "Application.Ex_2_0_3_DecimalFormat_class.executor": "Run",
     "Application.Ex_2_0_3_Self_service.executor": "Run",
     "Application.Ex_2_0_4_Output_Input_Delimiters.executor": "Run",
+    "Application.Ex_2_0_5_Read_File.executor": "Run",
     "Application.Ex_2_13_Sum.executor": "Run",
     "Application.Ex_2_14_Scanner_line.executor": "Run",
     "Application.Ex_2_15_Scanne_nextLine.executor": "Run",
@@ -75,9 +76,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex_2_0_4_Output_Input_Delimiters">
-    <configuration name="Ex_2_0_3_Self_service" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_Scanner.Ex_2_0_3_Self_service" />
+  <component name="RunManager" selected="Application.Ex_2_0_5_Read_File">
+    <configuration name="Ex_2_0_4_Output_Input_Delimiters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_Scanner.Ex_2_0_4_Output_Input_Delimiters" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_2_0_4_Output_Input_Delimiters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_Scanner.Ex_2_0_4_Output_Input_Delimiters" />
+    <configuration name="Ex_2_0_5_Read_File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_Scanner.Ex_2_0_5_Read_File" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_2_0_5_Read_File" />
         <item itemvalue="Application.Ex_2_0_4_Output_Input_Delimiters" />
         <item itemvalue="Application.Ex_2_15_Scanne_nextLine" />
         <item itemvalue="Application.Ex_2_14_Scanner_line" />
         <item itemvalue="Application.Ex_2_13_Sum" />
-        <item itemvalue="Application.Ex_2_0_3_Self_service" />
       </list>
     </recent_temporary>
   </component>
