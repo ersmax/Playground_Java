@@ -6,8 +6,6 @@ For practical, project-oriented programs, see the other repository `Programming_
 
 ## Chapter 1: Section 1 Intro
 
-### Exercises
-
 - [`Ex_1_0_1_FirstProgram.java`](src/chapter1/Section1_Intro/Ex_1_0_1_FirstProgram.java)
   *A simple Java program that prints a greeting and performs a basic calculation.*
 
@@ -41,8 +39,6 @@ For practical, project-oriented programs, see the other repository `Programming_
 ---
 
 ## Chapter 1: Section 2 Expressions
-
-### Exercises
 
 - [`Ex_2_10_Legit_name.java`](src/chapter1/Section2_Expressions/Ex_2_10_Legit_name.java)
   *Identifies which names are valid Java variable names and explains why.*
@@ -89,8 +85,6 @@ For practical, project-oriented programs, see the other repository `Programming_
 ---
 
 ## Chapter 1: Section 3 String
-
-### Exercises
 
 - [`Ex_2_0_1_Replace_word.java`](src/chapter1/Section3_String/Ex_2_0_1_Replace_word.java)  
   \*Replaces a word in a sentence without using the `replace()` method.
@@ -140,8 +134,6 @@ For practical, project-oriented programs, see the other repository `Programming_
 ---
 
 ## Chapter 2: Section 1 Output
-
-### Exercises
 
 - [`Ex_1_0_1_Format_specifiers.java`](src/chapter2/Section1_Output/Ex_1_0_1_Format_specifiers.java)  
   \*Shows examples of format specifiers in Java using `printf` for strings, characters, and floating-point numbers.
