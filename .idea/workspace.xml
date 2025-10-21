@@ -69,7 +69,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex_2_0_3_Self_service">
+  <component name="RunManager" selected="Application.Ex_2_13_Sum">
     <configuration name="Ex_1_0_3_DecimalFormat_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Section1_Output.Ex_1_0_3_DecimalFormat_class" />
       <module name="Playground" />
@@ -122,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.playground" />
+    <configuration name="Ex_2_13_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_Scanner.Ex_2_13_Sum" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="chapter2.Section2_Input_Scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_2_13_Sum" />
         <item itemvalue="Application.Ex_2_0_3_Self_service" />
         <item itemvalue="Application.Ex_2_0_2_Scanner_input2" />
         <item itemvalue="Application.Ex_2_0_1_Scanner_input" />
         <item itemvalue="Application.Ex_1_0_3_DecimalFormat_class" />
-        <item itemvalue="Application.playground" />
       </list>
     </recent_temporary>
   </component>
