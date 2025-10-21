@@ -77,4 +77,24 @@ Feel free to explore each file for code examples and explanations.
 
 ---
 
+## Chapter 2: Section 2 Input Scanner and File Scanner
+
+- [`Ex_2_0_1_Scanner_input.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_1_Scanner_input.java) — Demonstrates the use of the `Scanner` class to read integers from keyboard input.
+- [`Ex_2_0_2_Scanner_input2.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_2_Scanner_input2.java) — Uses `Scanner` to read integers, doubles, words, and lines from user input.
+- [`Ex_2_0_3_Self_service.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_3_Self_service.java) — Simulates a self-service store, reading item count and price, and formatting output.
+- [`Ex_2_0_4_Output_Input_Delimiters.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_4_Output_Input_Delimiters.java) — Shows how to change input delimiters in `Scanner` for custom parsing.
+- [`Ex_2_0_5_Read_File.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_5_Read_File.java) — Demonstrates reading data from a file using `Scanner` and `FileInputStream`.
+- [`Ex_2_0_5_player.txt`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_5_player.txt) — Sample data file for file input demonstration.
+- [`Ex_2_10_Scanner.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_10_Scanner.java) — Shows how to import the `Scanner` class.
+- [`Ex_2_11_Scanner_p2.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_11_Scanner_p2.java) — Creates a `Scanner` object named `frank` for keyboard input.
+- [`Ex_2_12_Scanner_p3.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_12_Scanner_p3.java) — Reads a word from keyboard input using a `Scanner` object.
+- [`Ex_2_13_Sum.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_13_Sum.java) — Reads two integers from keyboard input and outputs their sum.
+- [`Ex_2_14_Scanner_line.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_14_Scanner_line.java) — Reads a line with three words and outputs them with corrected spacing.
+- [`Ex_2_15_Scanne_nextLine.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_15_Scanne_nextLine.java) — Fixes the issue of reading a string after an integer with `Scanner.nextLine()`.
+- [`Ex_2_16_Comma_Delimiter.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_16_Comma_Delimiter.java) — Changes the input delimiter for `Scanner` to a comma and space.
+- [`Ex_2_17_Comma_Delimiter_Assignment.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_17_Comma_Delimiter_Assignment.java) — Demonstrates how custom delimiters affect input parsing.
+- [`Ex_2_18_No_File_Exception.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_18_No_File_Exception.java) — Explains the output when a file is missing during file input.
+- [`Ex_2_19_Try_Catch_File_Open.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_19_Try_Catch_File_Open.java) — Shows how to handle file opening errors using try/catch.
+
+
 
