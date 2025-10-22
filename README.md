@@ -58,37 +58,37 @@ Feel free to explore each file for code examples and explanations.
 
 ## Chapter 2: Section 1 Output
 
-- [`Ex_1_0_1_Format_specifiers.java`](src/chapter2/Section1_Output/Ex_1_0_1_Format_specifiers.java) — Format specifiers `printf` for strings, characters, floating-point numbers.
-- [`Ex_1_0_2_NumberFormat_class.java`](src/chapter2/Section1_Output/Ex_1_0_2_NumberFormat_class.java) — Demonstrates the use of `NumberFormat` to format currency values.
-- [`Ex_1_0_3_DecimalFormat_class.java`](src/chapter2/Section1_Output/Ex_1_0_3_DecimalFormat_class.java) — Uses `DecimalFormat` to format numbers, percentages, scientific notation.
-- [`Ex_1_1_Output.java`](src/chapter2/Section1_Output/Ex_1_1_Output.java) — Shows string concatenation and output.
-- [`Ex_1_2_Output.java`](src/chapter2/Section1_Output/Ex_1_2_Output.java) — Outputs multiple lines using escape sequences.
-- [`Ex_1_3_Output_differences.java`](src/chapter2/Section1_Output/Ex_1_3_Output_differences.java) — Difference between `System.out.print` and `System.out.println`.
-- [`Ex_1_4_Output.java`](src/chapter2/Section1_Output/Ex_1_4_Output.java) — Shows output differences between string concatenation and integer addition.
-- [`Ex_1_5_Format_string_output.java`](src/chapter2/Section1_Output/Ex_1_5_Format_string_output.java) — Demonstrates formatted string output with different field widths.
-- [`Ex_1_6_Format_specifier.java`](src/chapter2/Section1_Output/Ex_1_6_Format_specifier.java) — Formatted output for strings and floating-point, describing blank spaces.
-- [`Ex_1_7_eNotation.java`](src/chapter2/Section1_Output/Ex_1_7_eNotation.java) — Outputs a double in scientific notation with 3 decimal places, field width of 15.
-- [`Ex_1_8_NumberFormatter_currency_output.java`](src/chapter2/Section1_Output/Ex_1_8_NumberFormatter_currency_output.java) — Formats double values as US currency using `NumberFormat`.
-- [`Ex_1_9_Importing_packages.java`](src/chapter2/Section1_Output/Ex_1_9_Importing_packages.java) — Shows how to import a class from a package in Java.
+- [Format specifiers](src/chapter2/Section1_Output/Ex_1_0_1_Format_specifiers.java) — Format specifiers `printf` for strings, characters, floating-point numbers.
+- [Number Format class](src/chapter2/Section1_Output/Ex_1_0_2_NumberFormat_class.java) — Demonstrates the use of `NumberFormat` to format currency values.
+- [Decimal Format class](src/chapter2/Section1_Output/Ex_1_0_3_DecimalFormat_class.java) — Uses `DecimalFormat` to format numbers, percentages, scientific notation.
+1. [Output](src/chapter2/Section1_Output/Ex_1_1_Output.java) — Shows string concatenation and output.
+2. [Output 2](src/chapter2/Section1_Output/Ex_1_2_Output.java) — Outputs multiple lines using escape sequences.
+3. [Output Differences](src/chapter2/Section1_Output/Ex_1_3_Output_differences.java) — Difference between `System.out.print` and `System.out.println`.
+4. [Output 2](src/chapter2/Section1_Output/Ex_1_4_Output.java) — Shows output differences between string concatenation and integer addition.
+5. [Format String Output](src/chapter2/Section1_Output/Ex_1_5_Format_string_output.java) — Demonstrates formatted string output with different field widths.
+6. [Format Specifier](src/chapter2/Section1_Output/Ex_1_6_Format_specifier.java) — Formatted output for strings and floating-point, describing blank spaces.
+7. [eNotation](src/chapter2/Section1_Output/Ex_1_7_eNotation.java) — Outputs a double in scientific notation with 3 decimal places, field width of 15.
+8. [Number Formatter Currency Output](src/chapter2/Section1_Output/Ex_1_8_NumberFormatter_currency_output.java) — Formats double values as US currency using `NumberFormat`.
+9. [Importing Packages](src/chapter2/Section1_Output/Ex_1_9_Importing_packages.java) — Shows how to import a class from a package in Java.
 
 ## Chapter 2: Section 2 Input Scanner and File Scanner
 
-- [`Ex_2_0_1_Scanner_input.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_1_Scanner_input.java) — Demonstrates the use of `Scanner` class to read integers from keyboard.
-- [`Ex_2_0_2_Scanner_input2.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_2_Scanner_input2.java) — Uses `Scanner` to read integers, doubles, words, and lines from user input.
-- [`Ex_2_0_3_Self_service.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_3_Self_service.java) — Simulates a self-service store, reading item and price, and formatting output.
-- [`Ex_2_0_4_Output_Input_Delimiters.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_4_Output_Input_Delimiters.java) — Change input delimiters in `Scanner` for custom parsing.
-- [`Ex_2_0_5_Read_File.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_5_Read_File.java) — Demonstrates reading data from a file using `Scanner` and `FileInputStream`.
-- [`Ex_2_0_5_player.txt`](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_5_player.txt) — Sample data file for file input demonstration.
-- [`Ex_2_10_Scanner.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_10_Scanner.java) — Shows how to import the `Scanner` class.
-- [`Ex_2_11_Scanner_p2.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_11_Scanner_p2.java) — Creates a `Scanner` object named `frank` for keyboard input.
-- [`Ex_2_12_Scanner_p3.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_12_Scanner_p3.java) — Reads a word from keyboard input using a `Scanner` object.
-- [`Ex_2_13_Sum.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_13_Sum.java) — Reads two integers from keyboard input and outputs their sum.
-- [`Ex_2_14_Scanner_line.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_14_Scanner_line.java) — Reads a line with three words and outputs them with corrected spacing.
-- [`Ex_2_15_Scanne_nextLine.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_15_Scanne_nextLine.java) — Fixes the issue of reading a string after an integer with `Scanner.nextLine()`.
-- [`Ex_2_16_Comma_Delimiter.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_16_Comma_Delimiter.java) — Changes the input delimiter for `Scanner` to a comma and space.
-- [`Ex_2_17_Comma_Delimiter_Assignment.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_17_Comma_Delimiter_Assignment.java) — Demonstrates how custom delimiters affect input parsing.
-- [`Ex_2_18_No_File_Exception.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_18_No_File_Exception.java) — Explains the output when a file is missing during file input.
-- [`Ex_2_19_Try_Catch_File_Open.java`](src/chapter2/Section2_Input_File_Scanner/Ex_2_19_Try_Catch_File_Open.java) — Shows how to handle file opening errors using try/catch.
+- [Scanner Input](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_1_Scanner_input.java) — Demonstrates the use of `Scanner` class to read integers from keyboard.
+- [Scanner Input 2](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_2_Scanner_input2.java) — Uses `Scanner` to read integers, doubles, words, and lines from user input.
+- [Self Service](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_3_Self_service.java) — Simulates a self-service store, reading item and price, and formatting output.
+- [Output Input Delimiters](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_4_Output_Input_Delimiters.java) — Change input delimiters in `Scanner` for custom parsing.
+- [Read File](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_5_Read_File.java) — Demonstrates reading data from a file using `Scanner` and `FileInputStream`.
+- [Player](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_5_player.txt) — Sample data file for file input demonstration.
+10. [Scanner class](src/chapter2/Section2_Input_File_Scanner/Ex_2_10_Scanner.java) — Shows how to import the `Scanner` class.
+11. [Scanner class 2](src/chapter2/Section2_Input_File_Scanner/Ex_2_11_Scanner_p2.java) — Creates a `Scanner` object named `frank` for keyboard input.
+12. [Scanner class 3](src/chapter2/Section2_Input_File_Scanner/Ex_2_12_Scanner_p3.java) — Reads a word from keyboard input using a `Scanner` object.
+13. [Sum](src/chapter2/Section2_Input_File_Scanner/Ex_2_13_Sum.java) — Reads two integers from keyboard input and outputs their sum.
+14. [Scanner line](src/chapter2/Section2_Input_File_Scanner/Ex_2_14_Scanner_line.java) — Reads a line with three words and outputs them with corrected spacing.
+15. [Scanner next Line](src/chapter2/Section2_Input_File_Scanner/Ex_2_15_Scanne_nextLine.java) — Fixes the issue of reading a string after an integer with `Scanner.nextLine()`.
+16. [Comma Delimiter](src/chapter2/Section2_Input_File_Scanner/Ex_2_16_Comma_Delimiter.java) — Changes the input delimiter for `Scanner` to a comma and space.
+17. [Comma Delimiter Custom](src/chapter2/Section2_Input_File_Scanner/Ex_2_17_Comma_Delimiter_Assignment.java) — Demonstrates how custom delimiters affect input parsing.
+18. [No File Exception](src/chapter2/Section2_Input_File_Scanner/Ex_2_18_No_File_Exception.java) — Explains the output when a file is missing during file input.
+19. [Try Catch File Open](src/chapter2/Section2_Input_File_Scanner/Ex_2_19_Try_Catch_File_Open.java) — Shows how to handle file opening errors using try/catch.
 
 
 
