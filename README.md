@@ -96,7 +96,9 @@ Feel free to explore each file for code examples and explanations.
 
 ---
 
-## Chapter 3 Flow of control
+## Chapter 3 
+
+### Ch.3 Section 1Flow of control
 
 - [Income Tax](src/chapter3/Section1_Branching/Ex_3_0_1_Income_Tax.java) — Compute tax using multi\-tiered if\-else logic.
 - [Car Toll](src/chapter3/Section1_Branching/Ex_3_0_2_Car_Toll.java) — Demonstrates `switch` for vehicle classes and toll rates.
