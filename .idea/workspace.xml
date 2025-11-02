@@ -65,10 +65,13 @@
     "Application.Ex_2_8_NumberFormatter_currency_output.executor": "Run",
     "Application.Ex_3_0_1_Income_Tax.executor": "Run",
     "Application.Ex_3_0_2_Car_Toll.executor": "Run",
+    "Application.Ex_3_10_Switch_Output_2.executor": "Run",
+    "Application.Ex_3_11_Switch_Output_3.executor": "Run",
     "Application.Ex_3_5_Output.executor": "Run",
     "Application.Ex_3_6_Output_Small.executor": "Run",
     "Application.Ex_3_7_Output_Medium.executor": "Run",
     "Application.Ex_3_8_Multiway_Output.executor": "Run",
+    "Application.Ex_3_9_Switch_Output.executor": "Run",
     "Application.playground.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -84,7 +87,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex_3_0_2_Car_Toll">
+  <component name="RunManager" selected="Application.Ex_3_12_Switch_Output_4">
     <configuration name="Ex_3_0_2_Car_Toll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_0_2_Car_Toll" />
       <module name="Playground" />
@@ -98,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_3_5_Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_5_Output" />
+    <configuration name="Ex_3_10_Switch_Output_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_10_Switch_Output_2" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_3_6_Output_Small" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_6_Output_Small" />
+    <configuration name="Ex_3_11_Switch_Output_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_11_Switch_Output_3" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_3_7_Output_Medium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_7_Output_Medium" />
+    <configuration name="Ex_3_12_Switch_Output_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_12_Switch_Output_4" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_3_8_Multiway_Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_8_Multiway_Output" />
+    <configuration name="Ex_3_9_Switch_Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_9_Switch_Output" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -152,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_3_12_Switch_Output_4" />
+        <item itemvalue="Application.Ex_3_11_Switch_Output_3" />
+        <item itemvalue="Application.Ex_3_10_Switch_Output_2" />
+        <item itemvalue="Application.Ex_3_9_Switch_Output" />
         <item itemvalue="Application.Ex_3_0_2_Car_Toll" />
-        <item itemvalue="Application.Ex_3_8_Multiway_Output" />
-        <item itemvalue="Application.Ex_3_7_Output_Medium" />
-        <item itemvalue="Application.Ex_3_6_Output_Small" />
-        <item itemvalue="Application.Ex_3_5_Output" />
       </list>
     </recent_temporary>
   </component>
