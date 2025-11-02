@@ -6,7 +6,9 @@ Feel free to explore each file for code examples and explanations.
 
 ---
 
-## Chapter 1: Section 1 Intro
+## Chapter 1
+
+### Ch.1 Section 1 Intro
 
 - [First Program](src/chapter1/Section1_Intro/Ex_1_0_1_FirstProgram.java) — A simple Java program that prints a greeting and performs a basic calculation.
 1. [Statement](src/chapter1/Section1_Intro/Ex_1_1_Statement.java) — Demonstrates outputting a string to the console using `System.out.println`.
@@ -19,7 +21,7 @@ Feel free to explore each file for code examples and explanations.
 8. [Class name](src/chapter1/Section1_Intro/Ex_1_8_Class_name.java) — Describes the naming convention for Java class files.
 9. [Byte code name](src/chapter1/Section1_Intro/Ex_1_9_Byte_code_name.java) — Explains the naming of compiled Java byte-code files.
 
-## Chapter 1: Section 2 Expressions
+### Ch.1: Section 2 Expressions
 
 10. [Legit name](src/chapter1/Section2_Expressions/Ex_2_10_Legit_name.java) — Identifies which names are valid Java variable names and explains why.
 11. [Var names](src/chapter1/Section2_Expressions/Ex_2_11_Var_names.java) — Shows that Java is case-sensitive by declaring variables with similar names.
@@ -36,7 +38,7 @@ Feel free to explore each file for code examples and explanations.
 22. [Increment](src/chapter1/Section2_Expressions/Ex_2_22_Increment.java) — Shows type casting from double to int.
 23. [Increment Decrement](src/chapter1/Section2_Expressions/Ex_2_23_Increment_Decrement.java) — Demonstrates increment and decrement operators.
 
-## Chapter 1: Section 3 String
+### Ch.1: Section 3 String
 
 - [Replace word](src/chapter1/Section3_String/Ex_2_0_1_Replace_word.java) — Replaces a word in a sentence without using the `replace()` method.
 - [Interests](src/chapter1/Section3_String/Ex_2_0_2_Interests.java) — Calculates and displays interest earned on a sample account balance.
@@ -56,7 +58,9 @@ Feel free to explore each file for code examples and explanations.
 
 ---
 
-## Chapter 2: Section 1 Output
+## Chapter 2 Console Input and Output
+
+### Ch.2 Section 1 Output
 
 - [Format specifiers](src/chapter2/Section1_Output/Ex_1_0_1_Format_specifiers.java) — Format specifiers `printf` for strings, characters, floating-point numbers.
 - [Number Format class](src/chapter2/Section1_Output/Ex_1_0_2_NumberFormat_class.java) — Demonstrates the use of `NumberFormat` to format currency values.
@@ -71,7 +75,7 @@ Feel free to explore each file for code examples and explanations.
 8. [Number Formatter Currency Output](src/chapter2/Section1_Output/Ex_1_8_NumberFormatter_currency_output.java) — Formats double values as US currency using `NumberFormat`.
 9. [Importing Packages](src/chapter2/Section1_Output/Ex_1_9_Importing_packages.java) — Shows how to import a class from a package in Java.
 
-## Chapter 2: Section 2 Input Scanner and File Scanner
+### Ch.2: Section 2 Input Scanner and File Scanner
 
 - [Scanner Input](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_1_Scanner_input.java) — Demonstrates the use of `Scanner` class to read integers from keyboard.
 - [Scanner Input 2](src/chapter2/Section2_Input_File_Scanner/Ex_2_0_2_Scanner_input2.java) — Uses `Scanner` to read integers, doubles, words, and lines from user input.
@@ -89,6 +93,34 @@ Feel free to explore each file for code examples and explanations.
 17. [Comma Delimiter Custom](src/chapter2/Section2_Input_File_Scanner/Ex_2_17_Comma_Delimiter_Assignment.java) — Demonstrates how custom delimiters affect input parsing.
 18. [No File Exception](src/chapter2/Section2_Input_File_Scanner/Ex_2_18_No_File_Exception.java) — Explains the output when a file is missing during file input.
 19. [Try Catch File Open](src/chapter2/Section2_Input_File_Scanner/Ex_2_19_Try_Catch_File_Open.java) — Shows how to handle file opening errors using try/catch.
+
+---
+
+## Chapter 3 Flow of control
+
+- [Income Tax](src/chapter3/Section1_Branching/Ex_3_0_1_Income_Tax.java) — Compute tax using multi\-tiered if\-else logic.
+- [Car Toll](src/chapter3/Section1_Branching/Ex_3_0_2_Car_Toll.java) — Demonstrates `switch` for vehicle classes and toll rates.
+- [Ice Cream Flavours](src/chapter3/Section1_Branching/Ex_3_0_3_Ice_Cream_Flavours.java) — `switch` with grouped cases and default handling.
+1. [High / Low Value](src/chapter3/Section1_Branching/Ex_3_1_High_Low_Value.java) — Simple if\-else to classify an integer as "High" or "Low".
+2. [Solvent / Bankrupt](src/chapter3/Section1_Branching/Ex_3_2_Solvent_Bankrupt.java) — If\-else that updates `savings` and `expenses` when solvent.
+3. [Positive / Not positive](src/chapter3/Section1_Branching/Ex_3_3_Positive_Not_positive.java) — Classify an integer as positive or not.
+4. [Salary Deductions](src/chapter3/Section1_Branching/Ex_3_4_Salary_Deductions.java) — Check salary vs deductions and compute `net`.
+5. [Output Example (multiway)](src/chapter3/Section1_Branching/Ex_3_5_Output.java) — Demonstrates multiway if\-else output.
+6. [Output Example (small)](src/chapter3/Section1_Branching/Ex_3_6_Output_Small.java) — Variation of the multiway output example.
+7. [Output Example (medium)](src/chapter3/Section1_Branching/Ex_3_7_Output_Medium.java) — Variation of the multiway output example.
+8. [Multiway Output](src/chapter3/Section1_Branching/Ex_3_8_Multiway_Output.java) — Classifies an integer into \<0, 0–99, or ≥100.
+9. [Switch Output (char)](src/chapter3/Section1_Branching/Ex_3_9_Switch_Output.java) — `switch` fall\-through behavior with characters.
+10. [Switch Output 2 (fruit)](src/chapter3/Section1_Branching/Ex_3_10_Switch_Output_2.java) — `switch` example showing case evaluation and fall\-through.
+11. [Switch Output 3](src/chapter3/Section1_Branching/Ex_3_11_Switch_Output_3.java) — Variation of the fruit `switch` with different input.
+12. [Switch Output 4](src/chapter3/Section1_Branching/Ex_3_12_Switch_Output_4.java) — Another variation of the fruit `switch` demonstrating `default`.
+
+### Ch.3 Section 2 Boolean Expressions
+
+- [Comparing String](`src/chapter3/Section2_Boolean_Expressions/Ex_3_0_4_Comparing_String.java`) — Demonstrates `String.equals`, `equalsIgnoreCase`, and `compareToIgnoreCase` for equality and lexicographic comparison.
+13. [Greater or Equal](`src/chapter3/Section2_Boolean_Expressions/Ex_3_13_Greater_Equal.java`) — Reads two `int` values and prints a `boolean` result for `n1 >= n2`.
+14. [Greater (if\-else)](`src/chapter3/Section2_Boolean_Expressions/Ex_3_14_Greater.java`) — Uses `if\-else` to output `n1` when `n1 >= n2`, otherwise `n2`.
+15. [Equality (notes)](`src/chapter3/Section2_Boolean_Expressions/Ex_3_15_Equality.java`) — Notes testing equality for `int` (with `==`) and `String` (with `.equals` / `.equalsIgnoreCase`); includes explanatory comments.
+16. [Lexicographic Ordering](`src/chapter3/Section2_Boolean_Expressions/Ex_3_16_Lexicographic_Ordering.java`) — Reads a word and classifies it as `First half of the alphabet` if it precedes `N` using `compareToIgnoreCase`, otherwise `Second half of the alphabet`.
 
 
 
