@@ -76,7 +76,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex_2_19_Try_Catch_File_Open">
+  <component name="RunManager" selected="Application.Ex_3_0_1_Income_Tax">
     <configuration name="Ex_2_0_4_Output_Input_Delimiters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_File_Scanner.Ex_2_0_4_Output_Input_Delimiters" />
       <module name="Playground" />
@@ -92,19 +92,6 @@
     </configuration>
     <configuration name="Ex_2_0_5_Read_File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_File_Scanner.Ex_2_0_5_Read_File" />
-      <module name="Playground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.Section2_Input_File_Scanner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_2_15_Scanne_nextLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Section2_Input_File_Scanner.Ex_2_15_Scanne_nextLine" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -142,13 +129,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex_3_0_1_Income_Tax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_0_1_Income_Tax" />
+      <module name="Playground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.Section1_Branching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_3_0_1_Income_Tax" />
         <item itemvalue="Application.Ex_2_19_Try_Catch_File_Open" />
         <item itemvalue="Application.Ex_2_16_Comma_Delimiter" />
         <item itemvalue="Application.Ex_2_0_5_Read_File" />
         <item itemvalue="Application.Ex_2_0_4_Output_Input_Delimiters" />
-        <item itemvalue="Application.Ex_2_15_Scanne_nextLine" />
       </list>
     </recent_temporary>
   </component>
