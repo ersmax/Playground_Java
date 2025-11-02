@@ -69,6 +69,8 @@
     "Application.Ex_3_10_Switch_Output_2.executor": "Run",
     "Application.Ex_3_11_Switch_Output_3.executor": "Run",
     "Application.Ex_3_12_Switch_Output_4.executor": "Run",
+    "Application.Ex_3_13_Greater_Equal.executor": "Run",
+    "Application.Ex_3_16_Lexicographic_Ordering.executor": "Run",
     "Application.Ex_3_5_Output.executor": "Run",
     "Application.Ex_3_6_Output_Small.executor": "Run",
     "Application.Ex_3_7_Output_Medium.executor": "Run",
@@ -89,26 +91,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex_3_0_4_Comparing_String">
+  <component name="RunManager" selected="Application.Ex_3_16_Lexicographic_Ordering">
     <configuration name="Ex_3_0_4_Comparing_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Section2_Boolean.Ex_3_0_4_Comparing_String" />
+      <option name="MAIN_CLASS_NAME" value="chapter3.Section2_Boolean_Expressions.Ex_3_0_4_Comparing_String" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3.Section2_Boolean.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_3_10_Switch_Output_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_10_Switch_Output_2" />
-      <module name="Playground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter3.Section1_Branching.*" />
+          <option name="PATTERN" value="chapter3.Section2_Boolean_Expressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +131,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_3_9_Switch_Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Section1_Branching.Ex_3_9_Switch_Output" />
+    <configuration name="Ex_3_13_Greater_Equal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.Section2_Boolean_Expressions.Ex_3_13_Greater_Equal" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3.Section1_Branching.*" />
+          <option name="PATTERN" value="chapter3.Section2_Boolean_Expressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_3_16_Lexicographic_Ordering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.Section2_Boolean_Expressions.Ex_3_16_Lexicographic_Ordering" />
+      <module name="Playground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.Section2_Boolean_Expressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_3_16_Lexicographic_Ordering" />
         <item itemvalue="Application.Ex_3_0_4_Comparing_String" />
+        <item itemvalue="Application.Ex_3_13_Greater_Equal" />
         <item itemvalue="Application.Ex_3_12_Switch_Output_4" />
         <item itemvalue="Application.Ex_3_11_Switch_Output_3" />
-        <item itemvalue="Application.Ex_3_10_Switch_Output_2" />
-        <item itemvalue="Application.Ex_3_9_Switch_Output" />
       </list>
     </recent_temporary>
   </component>

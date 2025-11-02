@@ -1,4 +1,4 @@
-package chapter3.Section2_Boolean;
+package chapter3.Section2_Boolean_Expressions;
 
 public class Ex_3_0_4_Comparing_String {
     public static void main(String[] args) {
