@@ -123,6 +123,8 @@ Feel free to explore each file for code examples and explanations.
 14. [Greater (if\-else)](`src/chapter3/Section2_Boolean_Expressions/Ex_3_14_Greater.java`) — Uses `if\-else` to output `n1` when `n1 >= n2`, otherwise `n2`.
 15. [Equality (notes)](`src/chapter3/Section2_Boolean_Expressions/Ex_3_15_Equality.java`) — Notes testing equality for `int` (with `==`) and `String` (with `.equals` / `.equalsIgnoreCase`); includes explanatory comments.
 16. [Lexicographic Ordering](`src/chapter3/Section2_Boolean_Expressions/Ex_3_16_Lexicographic_Ordering.java`) — Reads a word and classifies it as `First half of the alphabet` if it precedes `N` using `compareToIgnoreCase`, otherwise `Second half of the alphabet`.
+17. [Passed or Failed](`src/chapter3/Section2_Boolean_Expressions/Ex_3_17_Passed_Failed.java`) — Reads a score and outputs `Passed` according to exams and programs, otherwise `Failed`.
+18. [Emergency](`src/chapter3/Section2_Boolean_Expressions/Ex_3_18_Emergency.java`) — Reads a code and outputs `Emergency` depending on the values of temperature and pressure.
 
 
 
