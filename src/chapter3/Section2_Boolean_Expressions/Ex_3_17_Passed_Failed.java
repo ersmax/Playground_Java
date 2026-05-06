@@ -11,6 +11,7 @@ package chapter3.Section2_Boolean_Expressions;
 import java.util.Scanner;
 
 public class Ex_3_17_Passed_Failed {
+    // Adding main function
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
         int exam = keyboard.nextInt(),
