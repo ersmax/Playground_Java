@@ -1,0 +1,35 @@
+package chapter3.Section2_Boolean_Expressions;
+
+public class Ex_3_0_5_Loops_demo {
+    public static void main(String[] args)  {
+        int countDown;
+        System.out.println("First while loop:");
+        countDown = 3;
+        while (countDown > 0) {
+            System.out.println("Hello");
+            countDown -= 1;
+        }
+        System.out.println("Second while loop:");
+        countDown = 0;
+        while (countDown > 0) {
+            System.out.println("Hello");
+            countDown -= 1;
+
+        }
+        System.out.println("First do-while loop:");
+        countDown = 3;
+        do {
+            System.out.println("Hello");
+            countDown -= 1;
+        } while (countDown > 0);
+
+        System.out.println("Second do-while loop:");
+        countDown = 0;
+        do {
+            System.out.println("Hello");
+            countDown -= 1;
+        } while (countDown > 0);
+
+        System.out.println(countDown);
+    }
+}

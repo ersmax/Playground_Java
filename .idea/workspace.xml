@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Adding boolean checks">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Addinng sequences">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -92,6 +95,7 @@
     "Application.Ex_3_0_1_Income_Tax.executor": "Run",
     "Application.Ex_3_0_2_Car_Toll.executor": "Run",
     "Application.Ex_3_0_4_Comparing_String.executor": "Run",
+    "Application.Ex_3_0_5_Loops_demo.executor": "Run",
     "Application.Ex_3_10_Switch_Output_2.executor": "Run",
     "Application.Ex_3_11_Switch_Output_3.executor": "Run",
     "Application.Ex_3_12_Switch_Output_4.executor": "Run",
@@ -125,7 +129,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex_3_19_Boolean_expressions">
+  <component name="RunManager">
     <configuration name="Ex_3_0_4_Comparing_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.Section2_Boolean_Expressions.Ex_3_0_4_Comparing_String" />
       <module name="Playground" />
@@ -210,7 +214,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758099498601</updated>
       <workItem from="1778096467785" duration="1146000" />
-      <workItem from="1778098832446" duration="10297000" />
+      <workItem from="1778098832446" duration="13082000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -236,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778257102812</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Addinng sequences">
+      <option name="closed" value="true" />
+      <created>1778259454946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778259454946</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +268,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding comment to test repo" />
     <MESSAGE value="Adding boolean checks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding boolean checks" />
+    <MESSAGE value="Addinng sequences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addinng sequences" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
