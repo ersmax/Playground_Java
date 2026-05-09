@@ -1,4 +1,4 @@
-package chapter3.Section2_Boolean_Expressions;
+package chapter3.Section3_Loops;
 
 public class Ex_3_0_5_Loops_demo {
     public static void main(String[] args)  {

@@ -15,7 +15,7 @@ n = n - 3;
 1
  */
 
-package chapter3.Section2_Boolean_Expressions;
+package chapter3.Section3_Loops;
 
 public class Ex_3_22_Loop_out {
 }

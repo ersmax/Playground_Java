@@ -8,7 +8,7 @@ Do-while executes body at least once, as opposed to while statement which
 executes the body upon a condition pass
  */
 
-package chapter3.Section2_Boolean_Expressions;
+package chapter3.Section3_Loops;
 
 public class Ex_3_27_DoWhile_vs_While {
 }

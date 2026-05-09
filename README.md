@@ -125,6 +125,17 @@ Feel free to explore each file for code examples and explanations.
 16. [Lexicographic Ordering](`src/chapter3/Section2_Boolean_Expressions/Ex_3_16_Lexicographic_Ordering.java`) — Reads a word and classifies it as `First half of the alphabet` if it precedes `N` using `compareToIgnoreCase`, otherwise `Second half of the alphabet`.
 17. [Passed or Failed](`src/chapter3/Section2_Boolean_Expressions/Ex_3_17_Passed_Failed.java`) — Reads a score and outputs `Passed` according to exams and programs, otherwise `Failed`.
 18. [Emergency](`src/chapter3/Section2_Boolean_Expressions/Ex_3_18_Emergency.java`) — Reads a code and outputs `Emergency` depending on the values of temperature and pressure.
+19. [Boolean expressions](src/chapter3/Section2_Boolean_Expressions/Ex_3_19_Boolean_expressions.java) — Evaluates a series of Boolean expressions with given variable values, including short-circuit logic and error cases.
+20. [Sequence (short-circuit)](src/chapter3/Section2_Boolean_Expressions/Ex_3_20_Sequence.java) — Demonstrates that short-circuit evaluation prevents division by zero in a conditional expression.
+21. [Parenthesized expression](src/chapter3/Section2_Boolean_Expressions/Ex_3_21_Parenthesized_expression.java) — Shows how to fully parenthesize an arithmetic expression to clarify order of operations.
 
+### Ch.3 Section 3 Loop
 
-
+- [Loops demo](src/chapter3/Section3_Loops/Ex_3_0_5_Loops_demo.java) — Demonstrates the difference between while and do-while loops with various countdowns.
+- [Average](src/chapter3/Section3_Loops/Ex_3_0_6_Average.java) — Reads a list of nonnegative scores and computes their average using a while loop.
+22. [Loop out](src/chapter3/Section3_Loops/Ex_3_22_Loop_out.java) — Shows output of a while loop decrementing by 3; includes output trace.
+23. [Loop](src/chapter3/Section3_Loops/Ex_3_23_Loop.java) — Explains the output if the while loop condition is changed from > to < (no output).
+24. [Loop](src/chapter3/Section3_Loops/Ex_3_24_Loop.java) — Shows output of a do-while loop decrementing by 3; includes output trace.
+25. [Loop](src/chapter3/Section3_Loops/Ex_3_25_Loop.java) — Explains the output if the do-while loop condition is changed from > to < (outputs initial value only).
+26. [Loop](src/chapter3/Section3_Loops/Ex_3_26_Loop.java) — Shows output of a do-while loop starting with a negative value (executes once).
+27. [DoWhile vs While](src/chapter3/Section3_Loops/Ex_3_27_DoWhile_vs_While.java) — Explains the key difference: do-while executes the body at least once, while may not execute at all.

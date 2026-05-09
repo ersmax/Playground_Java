@@ -7,7 +7,7 @@ replaced with < ?
 Nothing
  */
 
-package chapter3.Section2_Boolean_Expressions;
+package chapter3.Section3_Loops;
 
 public class Ex_3_23_Loop {
 }

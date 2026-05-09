@@ -1,6 +1,6 @@
 /*
 What is the output produced by the following?
-int n = 10;
+int n = -42;
 do
 {
 System.out.println(n);
@@ -9,13 +9,10 @@ n = n - 3;
  */
 
 /*
-10
-7
-4
-1
+-42
  */
 
-package chapter3.Section2_Boolean_Expressions;
+package chapter3.Section3_Loops;
 
-public class Ex_3_24_Loop {
+public class Ex_3_26_Loop {
 }

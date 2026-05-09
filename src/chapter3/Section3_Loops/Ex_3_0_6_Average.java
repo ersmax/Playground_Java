@@ -1,4 +1,4 @@
-package chapter3.Section2_Boolean_Expressions;
+package chapter3.Section3_Loops;
 
 import java.util.Scanner;
 
