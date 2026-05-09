@@ -139,3 +139,15 @@ Feel free to explore each file for code examples and explanations.
 25. [Loop](src/chapter3/Section3_Loops/Ex_3_25_Loop.java) — Explains the output if the do-while loop condition is changed from > to < (outputs initial value only).
 26. [Loop](src/chapter3/Section3_Loops/Ex_3_26_Loop.java) — Shows output of a do-while loop starting with a negative value (executes once).
 27. [DoWhile vs While](src/chapter3/Section3_Loops/Ex_3_27_DoWhile_vs_While.java) — Explains the key difference: do-while executes the body at least once, while may not execute at all.
+28. [Loop](src/chapter3/Section3_Loops/Ex_3_28_Loop.java) — Demonstrates loop output with repeated decrementing logic.
+29. [Loop](src/chapter3/Section3_Loops/Ex_3_29_Loop.java) — Shows another loop trace example with iterative updates.
+30. [Loop](src/chapter3/Section3_Loops/Ex_3_30_Loop.java) — Illustrates loop behavior with repeated state changes.
+31. [Loop](src/chapter3/Section3_Loops/Ex_3_31_Loop.java) — Demonstrates output produced by a loop with conditional progression.
+32. [Loop](src/chapter3/Section3_Loops/Ex_3_32_Loop.java) — Shows a loop example with changing values across iterations.
+33. [Loop](src/chapter3/Section3_Loops/Ex_3_33_Loop.java) — Demonstrates loop execution and output tracing.
+34. [Inner loops](src/chapter3/Section3_Loops/Ex_3_34_Inner_loops.java) — Shows how nested loops work and how inner loops repeat inside outer loops.
+35. [Loop types](src/chapter3/Section3_Loops/Ex_3_35_Loop_types.java) — Compares different loop types and their behavior.
+36. [Loop](src/chapter3/Section3_Loops/Ex_3_36_Loop.java) — Another loop example demonstrating iterative output.
+37. [Loop](src/chapter3/Section3_Loops/Ex_3_37_Loop.java) — Shows loop behavior with a different starting or stopping condition.
+38. [Loop](src/chapter3/Section3_Loops/Ex_3_38_Loop.java) — Demonstrates repeated execution with updated loop variables.
+39. [Loop](src/chapter3/Section3_Loops/Ex_3_39_Loop.java) — Final loop example in the section, showing iterative control flow.
