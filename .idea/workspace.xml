@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Fix typo readme">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add loop ex">
+      <change afterPath="$PROJECT_DIR$/src/chapter3/Playground.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,7 @@
   <component name="CopilotChats">
     <option name="panelChat">
       <chat>
-        <option name="activeSessionId" value="6ccd5f4e-a2e5-4600-b1d2-2443ceb7edfd" />
+        <option name="activeSessionId" value="eea5656f-c126-480d-ac24-5593a46abc19" />
         <option name="sessions">
           <session>
             <option name="chatType" value="PANEL" />
@@ -43,6 +43,39 @@
             <option name="modelValue" value="gpt-4.1" />
             <option name="targetType" value="LOCAL" />
           </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="6f6c1a57-1f83-404d-953a-e3a3a8b48f10" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="7709f6bb-0a35-46df-9732-2a170e6e6c25" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="gpt-4.1" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="d33e5224-7eb2-4232-b761-cd18f15287af" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="gpt-4.1" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="eea5656f-c126-480d-ac24-5593a46abc19" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
         </option>
         <option name="type" value="PANEL" />
       </chat>
@@ -58,9 +91,13 @@
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
-      <entry key="agent-panel" value="GPT-4.1" />
-      <entry key="chat-panel" value="GPT-4.1" />
+      <entry key="agent-panel" value="GPT-5 mini" />
+      <entry key="chat-panel" value="GPT-5 mini" />
     </selectedModels>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="131" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,6 +124,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -100,6 +141,20 @@
   <component name="ProjectId" id="32ouxnaLV1b80CUwVlV6w1J5qft" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -137,19 +192,21 @@
     "Application.Ex_3_11_Switch_Output_3.executor": "Run",
     "Application.Ex_3_12_Switch_Output_4.executor": "Run",
     "Application.Ex_3_13_Greater_Equal.executor": "Run",
-    "Application.Ex_3_16_Lexicographic_Ordering.executor": "Run",
+    "Application.Ex_3_16_Lexicographic_Ordering.executor": "Debug",
     "Application.Ex_3_17_Passed_Failed.executor": "Run",
     "Application.Ex_3_18_Emergency.executor": "Run",
     "Application.Ex_3_19_Boolean_expressions.executor": "Run",
     "Application.Ex_3_29_Loop.executor": "Debug",
-    "Application.Ex_3_31_Loop.executor": "Run",
+    "Application.Ex_3_31_Loop.executor": "Debug",
     "Application.Ex_3_33_Loop.executor": "Run",
     "Application.Ex_3_5_Output.executor": "Run",
     "Application.Ex_3_6_Output_Small.executor": "Run",
     "Application.Ex_3_7_Output_Medium.executor": "Run",
     "Application.Ex_3_8_Multiway_Output.executor": "Run",
     "Application.Ex_3_9_Switch_Output.executor": "Run",
+    "Application.Playground.executor": "Run",
     "Application.playground.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -161,15 +218,19 @@
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Java/Playground",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ex_3_16_Lexicographic_Ordering">
     <configuration name="Ex_3_16_Lexicographic_Ordering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.Section2_Boolean_Expressions.Ex_3_16_Lexicographic_Ordering" />
       <module name="Playground" />
@@ -237,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_3_16_Lexicographic_Ordering" />
         <item itemvalue="Application.Ex_3_31_Loop" />
         <item itemvalue="Application.Ex_3_19_Boolean_expressions" />
         <item itemvalue="Application.Ex_3_18_Emergency" />
         <item itemvalue="Application.Ex_3_17_Passed_Failed" />
-        <item itemvalue="Application.Ex_3_16_Lexicographic_Ordering" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +319,12 @@
       <workItem from="1778320249956" duration="3616000" />
       <workItem from="1778333090791" duration="170000" />
       <workItem from="1778333277558" duration="194000" />
-      <workItem from="1778333487886" duration="1683000" />
+      <workItem from="1778333487886" duration="1770000" />
+      <workItem from="1778337040277" duration="1424000" />
+      <workItem from="1778344122941" duration="3592000" />
+      <workItem from="1778347884365" duration="774000" />
+      <workItem from="1778348687883" duration="116000" />
+      <workItem from="1778348834596" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -324,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778320917335</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add loop ex">
+      <option name="closed" value="true" />
+      <created>1778335200658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1778335200659</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,10 +420,10 @@
     <MESSAGE value="Adding boolean checks" />
     <MESSAGE value="Addinng sequences" />
     <MESSAGE value="Adding avg and loop demo" />
-    <MESSAGE value="Add loop ex" />
     <MESSAGE value="Update project description" />
     <MESSAGE value="Fix typo readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix typo readme" />
+    <MESSAGE value="Add loop ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add loop ex" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
