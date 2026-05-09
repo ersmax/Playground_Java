@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add loop ex">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Update project description">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Section2_Boolean_Expressions/Ex_3_0_5_Loops_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Section3_Loops/Ex_3_0_5_Loops_demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Section2_Boolean_Expressions/Ex_3_0_6_Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Section3_Loops/Ex_3_0_6_Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Section2_Boolean_Expressions/Ex_3_22_Loop_out.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Section3_Loops/Ex_3_22_Loop_out.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Section2_Boolean_Expressions/Ex_3_23_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Section3_Loops/Ex_3_23_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Section2_Boolean_Expressions/Ex_3_24_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Section3_Loops/Ex_3_24_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Section2_Boolean_Expressions/Ex_3_25_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Section3_Loops/Ex_3_25_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Section2_Boolean_Expressions/Ex_3_26_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Section3_Loops/Ex_3_26_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Section2_Boolean_Expressions/Ex_3_27_DoWhile_vs_While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Section3_Loops/Ex_3_27_DoWhile_vs_While.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +216,7 @@
       <updated>1758099498601</updated>
       <workItem from="1778096467785" duration="1146000" />
       <workItem from="1778098832446" duration="16269000" />
-      <workItem from="1778320249956" duration="310000" />
+      <workItem from="1778320249956" duration="646000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -275,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778264502235</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update project description">
+      <option name="closed" value="true" />
+      <created>1778320585251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778320585252</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +297,8 @@
     <MESSAGE value="Addinng sequences" />
     <MESSAGE value="Adding avg and loop demo" />
     <MESSAGE value="Add loop ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add loop ex" />
+    <MESSAGE value="Update project description" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update project description" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
