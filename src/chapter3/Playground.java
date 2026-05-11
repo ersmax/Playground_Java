@@ -1,24 +1,19 @@
 package chapter3;
 
-import java.util.Scanner;
+import java.text.NumberFormat;
+import java.util.Locale;
 
 public class Playground {
+
     public static void main(String[] args) {
-        String s = "";
-        char c = ' ';
-        Scanner keyboard = new Scanner(System.in);
+        NumberFormat moneyFormatter = NumberFormat.getCurrencyInstance();
+        System.out.println(moneyFormatter.format(19.8));
 
-        do {
-            System.out.println("Enter 'A' for option A " +
-                    "or 'B' for option B.");
-            s = keyboard.nextLine();
-            s = s.toLowerCase();
-            // trace
-            System.out.println(s);
-            c = s.charAt(0);
-        } while ((c != 'a') && (c != 'b'));
+        NumberFormat euroFormatter = NumberFormat.getCurrencyInstance(Locale.GERMANY);
+        System.out.println(euroFormatter.format(19.8));
 
-        System.out.println("You chose option " + c);
-        keyboard.close();
+        double money = 19.34512321;
+        String moneyString = euroFormatter.format(money);
+        System.out.println(moneyString);
     }
 }
