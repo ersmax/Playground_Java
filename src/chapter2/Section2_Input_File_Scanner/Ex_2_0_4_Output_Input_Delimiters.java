@@ -12,6 +12,7 @@ package chapter2.Section2_Input_File_Scanner;
 import java.util.Scanner;
 
 public class Ex_2_0_4_Output_Input_Delimiters {
+
     public static void main(String[] args) {
         Scanner keyboard1 = new Scanner(System.in);
         Scanner keyboard2 = new Scanner(System.in);
@@ -19,7 +20,7 @@ public class Ex_2_0_4_Output_Input_Delimiters {
         // Delimiter for keyboard2 is ##
         keyboard2.useDelimiter("##");
 
-        String word1, word2;
+        String word1, word2, word3;
         System.out.println("Enter a line of text:");
         word1 = keyboard1.next();
         word2 = keyboard1.next();
@@ -31,8 +32,10 @@ public class Ex_2_0_4_Output_Input_Delimiters {
         System.out.println("Renter the same line of text:");
         word1 = keyboard2.next();
         word2 = keyboard2.next();
+        word3 = keyboard2.next();
         System.out.println("Changed behavior (## as delimiter):");
         System.out.println("word1: " + word1);
         System.out.println("word2: " + word2);
+        System.out.println("word2: " + word3);
     }
 }

@@ -38,5 +38,9 @@ public class Ex_2_0_2_Scanner_input2 {
         scannerObject.nextLine();
         String line = scannerObject.nextLine();
         System.out.println("You entered: \"" + line + "\"");
+
+        System.out.println("Enter another number:");
+        int number = scannerObject.nextInt();
+        System.out.println("You entered: " + number);
     }
 }

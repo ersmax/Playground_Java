@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add playground">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Update playground">
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/Section2_Input_File_Scanner/Ex_2_0_2_Scanner_input2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Section2_Input_File_Scanner/Ex_2_0_2_Scanner_input2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/Section2_Input_File_Scanner/Ex_2_0_4_Output_Input_Delimiters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Section2_Input_File_Scanner/Ex_2_0_4_Output_Input_Delimiters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter3/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Playground.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +19,7 @@
   <component name="CopilotChats">
     <option name="panelChat">
       <chat>
-        <option name="activeSessionId" value="f8d908b5-8c70-4f8e-ab7a-da6aabc112db" />
+        <option name="activeSessionId" value="e59f702d-0b1b-498c-806e-02e12b10078f" />
         <option name="sessions">
           <session>
             <option name="chatType" value="PANEL" />
@@ -89,7 +92,86 @@
             <option name="id" value="f8d908b5-8c70-4f8e-ab7a-da6aabc112db" />
             <option name="modeId" value="Agent" />
             <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="a24a9990-e566-4130-9e84-7fa48eaf0da8" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
             <option name="modelValue" value="gpt-5-mini" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="2ea285d8-3693-41ea-b4d7-42c399dfadf5" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="fb4d0a23-997b-46e5-a291-a10bccd7ac53" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="37cf3b93-a9b1-4e66-905e-a0e9e4a0f99d" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="3c4c6826-c893-47c6-9ab0-7cbc6302e6fe" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+            <option name="status" value="Stopped" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="5411ead3-86c3-491a-a272-64574f12e469" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="020b6314-4696-446d-9289-37acb4a32eda" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="b386fd35-53e9-4a5b-9cef-549a5ed5542a" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="e59f702d-0b1b-498c-806e-02e12b10078f" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+            <option name="status" value="Completed" />
             <option name="targetType" value="LOCAL" />
           </session>
         </option>
@@ -112,7 +194,7 @@
     </selectedModels>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="132" />
+    <option name="cachedIndexableFilesCount" value="248" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -138,7 +220,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.jdks/ms-21.0.11/lib/src.zip!/java.base/java/text/NumberFormat.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -176,78 +258,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Ex_1_0_3_DecimalFormat_class.executor": "Run",
-    "Application.Ex_2_0_1_Format_specifiers.executor": "Run",
-    "Application.Ex_2_0_1_Scanner_input.executor": "Run",
-    "Application.Ex_2_0_2_NumberFormat_class.executor": "Run",
-    "Application.Ex_2_0_2_Scanner_input2.executor": "Run",
-    "Application.Ex_2_0_3_DecimalFormat_class.executor": "Run",
-    "Application.Ex_2_0_3_Self_service.executor": "Run",
-    "Application.Ex_2_0_4_Output_Input_Delimiters.executor": "Run",
-    "Application.Ex_2_0_5_Read_File.executor": "Run",
-    "Application.Ex_2_13_Sum.executor": "Run",
-    "Application.Ex_2_14_Scanner_line.executor": "Run",
-    "Application.Ex_2_15_Scanne_nextLine.executor": "Run",
-    "Application.Ex_2_16_Comma_Delimiter.executor": "Run",
-    "Application.Ex_2_19_Try_Catch_File_Open.executor": "Run",
-    "Application.Ex_2_1_Output.executor": "Run",
-    "Application.Ex_2_2_Output.executor": "Run",
-    "Application.Ex_2_4_Output.executor": "Run",
-    "Application.Ex_2_5_Format_string_output.executor": "Run",
-    "Application.Ex_2_6_Format_specifier.executor": "Run",
-    "Application.Ex_2_7_eNotation.executor": "Run",
-    "Application.Ex_2_8_NumberFormatter_currency_output.executor": "Run",
-    "Application.Ex_3_0_1_Income_Tax.executor": "Run",
-    "Application.Ex_3_0_2_Car_Toll.executor": "Run",
-    "Application.Ex_3_0_4_Comparing_String.executor": "Run",
-    "Application.Ex_3_0_5_Loops_demo.executor": "Run",
-    "Application.Ex_3_0_6_Average.executor": "Debug",
-    "Application.Ex_3_10_Switch_Output_2.executor": "Run",
-    "Application.Ex_3_11_Switch_Output_3.executor": "Run",
-    "Application.Ex_3_12_Switch_Output_4.executor": "Run",
-    "Application.Ex_3_13_Greater_Equal.executor": "Run",
-    "Application.Ex_3_16_Lexicographic_Ordering.executor": "Debug",
-    "Application.Ex_3_17_Passed_Failed.executor": "Run",
-    "Application.Ex_3_18_Emergency.executor": "Run",
-    "Application.Ex_3_19_Boolean_expressions.executor": "Run",
-    "Application.Ex_3_29_Loop.executor": "Debug",
-    "Application.Ex_3_31_Loop.executor": "Debug",
-    "Application.Ex_3_33_Loop.executor": "Run",
-    "Application.Ex_3_5_Output.executor": "Run",
-    "Application.Ex_3_6_Output_Small.executor": "Run",
-    "Application.Ex_3_7_Output_Medium.executor": "Run",
-    "Application.Ex_3_8_Multiway_Output.executor": "Run",
-    "Application.Ex_3_9_Switch_Output.executor": "Run",
-    "Application.Playground.executor": "Run",
-    "Application.playground.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java/Playground",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ex_1_0_3_DecimalFormat_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_1_Format_specifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_1_Scanner_input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_2_NumberFormat_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_2_Scanner_input2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_3_DecimalFormat_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_3_Self_service.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_4_Output_Input_Delimiters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_0_5_Read_File.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_13_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_14_Scanner_line.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_15_Scanne_nextLine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_16_Comma_Delimiter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_19_Try_Catch_File_Open.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_1_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_2_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_4_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_5_Format_string_output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_6_Format_specifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_7_eNotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_2_8_NumberFormatter_currency_output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_0_1_Income_Tax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_0_2_Car_Toll.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_0_4_Comparing_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_0_5_Loops_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_0_6_Average.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Ex_3_10_Switch_Output_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_11_Switch_Output_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_12_Switch_Output_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_13_Greater_Equal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_16_Lexicographic_Ordering.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Ex_3_17_Passed_Failed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_18_Emergency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_19_Boolean_expressions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_29_Loop.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Ex_3_31_Loop.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Ex_3_33_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_5_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_6_Output_Small.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_7_Output_Medium.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_8_Multiway_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_3_9_Switch_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Playground.executor&quot;: &quot;Run&quot;,
+    &quot;Application.playground.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/Playground&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Playground">
+}</component>
+  <component name="RunManager" selected="Application.Ex_3_16_Lexicographic_Ordering">
     <configuration name="Ex_3_16_Lexicographic_Ordering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.Section2_Boolean_Expressions.Ex_3_16_Lexicographic_Ordering" />
       <module name="Playground" />
@@ -349,7 +431,11 @@
       <workItem from="1778431325341" duration="111000" />
       <workItem from="1778431452110" duration="647000" />
       <workItem from="1778432120002" duration="211000" />
-      <workItem from="1778432350834" duration="9106000" />
+      <workItem from="1778432350834" duration="10338000" />
+      <workItem from="1778504485292" duration="104000" />
+      <workItem from="1778504616190" duration="6737000" />
+      <workItem from="1778512073745" duration="2940000" />
+      <workItem from="1778518001273" duration="3128000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -431,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778349850819</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update playground">
+      <option name="closed" value="true" />
+      <created>1778496025654</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1778496025654</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,7 +551,8 @@
     <MESSAGE value="Fix typo readme" />
     <MESSAGE value="Add loop ex" />
     <MESSAGE value="Add playground" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add playground" />
+    <MESSAGE value="Update playground" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update playground" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
