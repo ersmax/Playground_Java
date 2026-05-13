@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Update playground">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Adding examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Playground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/Section4_Debugging/Ex_3_43_Assertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Section4_Debugging/Ex_3_43_Assertion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -484,7 +483,7 @@
       <workItem from="1778504616190" duration="6737000" />
       <workItem from="1778512073745" duration="2940000" />
       <workItem from="1778518001273" duration="5733000" />
-      <workItem from="1778590851543" duration="15947000" />
+      <workItem from="1778590851543" duration="16312000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -582,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778572884258</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Adding examples">
+      <option name="closed" value="true" />
+      <created>1778660730854</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1778660730855</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,7 +616,8 @@
     <MESSAGE value="Add loop ex" />
     <MESSAGE value="Add playground" />
     <MESSAGE value="Update playground" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update playground" />
+    <MESSAGE value="Adding examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
