@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add new date programs">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Adding Billing system">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,7 +361,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java/Playground/src/chapter4/Section1_Class_Definitions/Ex_4_04_Happy_days",
+    "last_opened_file_path": "D:/Java/Playground/src/chapter4/Section1_Class_Definitions/Ex_4_05_Fraction_date",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -375,6 +376,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_05_Fraction_date" />
       <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_04_Happy_days" />
       <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_03_Next_year" />
       <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_02_Yell_new_year" />
@@ -498,7 +500,7 @@
       <workItem from="1778504616190" duration="6737000" />
       <workItem from="1778512073745" duration="2940000" />
       <workItem from="1778518001273" duration="5733000" />
-      <workItem from="1778590851543" duration="34872000" />
+      <workItem from="1778590851543" duration="35858000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -636,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778681027612</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Adding Billing system">
+      <option name="closed" value="true" />
+      <created>1778688475277</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1778688475277</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +678,8 @@
     <MESSAGE value="Add class methods" />
     <MESSAGE value="Add date programs" />
     <MESSAGE value="Add new date programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new date programs" />
+    <MESSAGE value="Adding Billing system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Billing system" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

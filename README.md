@@ -199,3 +199,19 @@ PS D:\Java\Playground\src> java -ea chapter3.Section5_Random.Ex_3_44_Random_gene
 44. [Random generator (example 1)](src/chapter3/Section5_Random/Ex_3_44_Random_generator.java) — Generates and prints random numbers in a range; demonstrates basic usage of `Random` and formatting output.
 45. [Random generator (example 2)](src/chapter3/Section5_Random/Ex_3_45_Random_generator.java) — Another example showing seeding, generating multiple values, and techniques for reproducible results.
 46. [Random with Math class](src/chapter3/Section5_Random/Ex_3_46_Random_Math_class.java) — Uses `Math.random()` to produce random doubles and convert them to integers within a range; compares `Math.random()` vs `java.util.Random`.
+
+---
+
+## Chapter 4 Defining Classes I
+
+### Ch.4 Section 1 Class Definitions
+
+- [Dates (first try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_1_Dates/DateFirstTry.java) — A basic `Date` class and demo that illustrate defining a class with fields and simple methods.
+- [Date encapsulation (second try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_2_Date_encapsulation/DateSecondTry.java) — Demonstrates encapsulation (private fields, getters/setters) and a demo class.
+- [Date parameters (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_3_Date_parameters/DateThirdTry.java) — Shows constructors and parameter passing to initialize objects.
+- [Billing system (mini example)](src/chapter4/Section1_Class_Definitions/Ex_4_0_4_Billing_system/Bill.java) — Small billing-related classes and a `BillingDialog` to show organizing classes for a simple domain problem.
+1. [Make new years example](src/chapter4/Section1_Class_Definitions/Ex_4_01_Make_new_years/DateFirstTry.java) — Variation that constructs and manipulates `Date` objects to show object interactions.
+2. [Yell new year example](src/chapter4/Section1_Class_Definitions/Ex_4_02_Yell_new_year/DateFirstTry.java) — Demonstrates method calls between objects and printing formatted output.
+3. [Next year example](src/chapter4/Section1_Class_Definitions/Ex_4_03_Next_year/DateFirstTry.java) — Illustrates adding behaviour to a `Date` class (e.g., advancing to the next year).
+4. [Happy days example](src/chapter4/Section1_Class_Definitions/Ex_4_04_Happy_days/DateFirstTry.java) — Another variation demonstrating class behaviour and demo usage.
+5. [Fractional dates (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_05_Fraction_date/DateThirdTry.java) — Example exploring more advanced date logic and representation.
