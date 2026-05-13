@@ -31,5 +31,12 @@ public class Playground {
         System.out.println(eNotation1.format(number));
         System.out.println(eNotation2.format(number));
 
+        int n = 0;
+        if ((n++ > 0) && (n > -1))
+            System.out.println("Okay");
+        else
+            System.out.println("Not okay");
+        assert (n == 1);
+
     }
 }

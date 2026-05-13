@@ -1,8 +1,42 @@
 # Java Practice Playground
 
 This repository contains practical exercises to practice Java 8.
-This section is for theoretical programs.For project-oriented programs, see the other repo `Programming_Projects_Java`.
+This section is for theoretical programs. For project-oriented programs, see the other repo `Programming_Projects_Java`.
 Feel free to explore each file for code examples and explanations.
+
+---
+
+To compile inside the source program or source code folder:
+```bash
+PS D:\Java\Playground\src\Chapter3\Section5_Random> javac Ex_3_44_Random_generator.java
+```
+To compile inside the main folder:
+```bash
+PS D:\Java\Playground\src> javac chapter3/Section5_Random/Ex_3_44_Random_generator.java
+```
+
+To run the compiled class (run the bytecode or object code) from the source program folder:
+```bash
+PS D:\Java\Playground\src\Chapter3\Section5_Random> java -classpath ../.. chapter3.Section5_Random.Ex_3_44_Random_generator
+```
+or use the abbreviation `-cp`
+```bash
+PS D:\Java\Playground\src\Chapter3\Section5_Random> java -cp ../.. chapter3.Section5_Random.Ex_3_44_Random_generator
+```
+
+To run the compiled class from the main folder:
+```bash
+PS D:\Java\Playground\src> java chapter3.Section5_Random.Ex_3_44_Random_generator
+```
+
+To enable assertions:
+```bash
+PS D:\Java\Playground\src> java -enableassertions chapter3.Section5_Random.Ex_3_44_Random_generator
+```
+or use the abbreviation `-ea`
+```bash
+PS D:\Java\Playground\src> java -ea chapter3.Section5_Random.Ex_3_44_Random_generator
+```
 
 ---
 
@@ -151,3 +185,17 @@ Feel free to explore each file for code examples and explanations.
 37. [Loop](src/chapter3/Section3_Loops/Ex_3_37_Loop.java) — Shows loop behavior with a different starting or stopping condition.
 38. [Loop](src/chapter3/Section3_Loops/Ex_3_38_Loop.java) — Demonstrates repeated execution with updated loop variables.
 39. [Loop](src/chapter3/Section3_Loops/Ex_3_39_Loop.java) — Final loop example in the section, showing iterative control flow.
+
+### Ch.3 Section 4 Debugging
+
+40. [Tracing variables](src/chapter3/Section4_Debugging/Ex_3_40_Tracing_variables.java) — Shows how variable values change during execution with simple examples and tracing output.
+41. [Tracing (step trace)](src/chapter3/Section4_Debugging/Ex_3_41_Tracing.java) — Prints a step-by-step trace of execution to illustrate control flow and intermediate values.
+42. [Off-by-one error](src/chapter3/Section4_Debugging/Ex_3_42_Off_by_one_error.java) — Demonstrates a common loop bug where the loop boundary excludes the intended last value (off-by-one), with a trace to help debug.
+43. [Assertions example](src/chapter3/Section4_Debugging/Ex_3_43_Assertion.java) — Shows how to use `assert` to check program invariants and how to enable assertions when running.
+
+### Ch.3 Section 5 Random number generation
+
+- [Heads or Tails](src/chapter3/Section5_Random/Ex_3_0_7_HeadTails.java) — Simple coin flip simulation using `Random` or `Math.random()` to choose between two outcomes.
+44. [Random generator (example 1)](src/chapter3/Section5_Random/Ex_3_44_Random_generator.java) — Generates and prints random numbers in a range; demonstrates basic usage of `Random` and formatting output.
+45. [Random generator (example 2)](src/chapter3/Section5_Random/Ex_3_45_Random_generator.java) — Another example showing seeding, generating multiple values, and techniques for reproducible results.
+46. [Random with Math class](src/chapter3/Section5_Random/Ex_3_46_Random_Math_class.java) — Uses `Math.random()` to produce random doubles and convert them to integers within a range; compares `Math.random()` vs `java.util.Random`.
