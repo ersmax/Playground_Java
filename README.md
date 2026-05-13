@@ -40,7 +40,7 @@ PS D:\Java\Playground\src> java -ea chapter3.Section5_Random.Ex_3_44_Random_gene
 
 ---
 
-## Chapter 1
+## Chapter 1 - Introduction to Java
 
 ### Ch.1 Section 1 Intro
 
@@ -92,7 +92,7 @@ PS D:\Java\Playground\src> java -ea chapter3.Section5_Random.Ex_3_44_Random_gene
 
 ---
 
-## Chapter 2 Console Input and Output
+## Chapter 2 - Console Input and Output
 
 ### Ch.2 Section 1 Output
 
@@ -130,9 +130,9 @@ PS D:\Java\Playground\src> java -ea chapter3.Section5_Random.Ex_3_44_Random_gene
 
 ---
 
-## Chapter 3 
+## Chapter 3 - Flow of Control
 
-### Ch.3 Section 1Flow of control
+### Ch.3 Section 1 Flow of control
 
 - [Income Tax](src/chapter3/Section1_Branching/Ex_3_0_1_Income_Tax.java) — Compute tax using multi\-tiered if\-else logic.
 - [Car Toll](src/chapter3/Section1_Branching/Ex_3_0_2_Car_Toll.java) — Demonstrates `switch` for vehicle classes and toll rates.
