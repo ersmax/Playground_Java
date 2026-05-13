@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Adding examples">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Change assertion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Section4_Debugging/Ex_3_43_Assertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Section4_Debugging/Ex_3_43_Assertion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,6 +231,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -292,6 +292,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DateFirstTryDemo.executor": "Run",
     "Application.Ex_1_0_3_DecimalFormat_class.executor": "Run",
     "Application.Ex_2_0_1_Format_specifiers.executor": "Run",
     "Application.Ex_2_0_1_Scanner_input.executor": "Run",
@@ -355,7 +356,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java/Playground",
+    "last_opened_file_path": "D:/Java/Playground/src/chapter4/Section1_Class_Definitions/Ex_4_02_Yell_new_year",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -368,6 +369,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_02_Yell_new_year" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter4.Section1_Class_Definitions.Ex_4_01_Make_new_years" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Ex_3_0_7_HeadTails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.Section5_Random.Ex_3_0_7_HeadTails" />
@@ -483,7 +492,7 @@
       <workItem from="1778504616190" duration="6737000" />
       <workItem from="1778512073745" duration="2940000" />
       <workItem from="1778518001273" duration="5733000" />
-      <workItem from="1778590851543" duration="16312000" />
+      <workItem from="1778590851543" duration="21072000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -589,7 +598,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778660730855</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Change assertion">
+      <option name="closed" value="true" />
+      <created>1778661122035</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1778661122035</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,7 +634,8 @@
     <MESSAGE value="Add playground" />
     <MESSAGE value="Update playground" />
     <MESSAGE value="Adding examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding examples" />
+    <MESSAGE value="Change assertion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change assertion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
