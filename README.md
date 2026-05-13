@@ -205,7 +205,6 @@ PS D:\Java\Playground\src> java -ea chapter3.Section5_Random.Ex_3_44_Random_gene
 ## Chapter 4 Defining Classes I
 
 ### Ch.4 Section 1 Class Definitions
-
 - [Dates (first try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_1_Dates/DateFirstTry.java) — A basic `Date` class and demo that illustrate defining a class with fields and simple methods.
 - [Date encapsulation (second try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_2_Date_encapsulation/DateSecondTry.java) — Demonstrates encapsulation (private fields, getters/setters) and a demo class.
 - [Date parameters (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_3_Date_parameters/DateThirdTry.java) — Shows constructors and parameter passing to initialize objects.
@@ -215,3 +214,8 @@ PS D:\Java\Playground\src> java -ea chapter3.Section5_Random.Ex_3_44_Random_gene
 3. [Next year example](src/chapter4/Section1_Class_Definitions/Ex_4_03_Next_year/DateFirstTry.java) — Illustrates adding behaviour to a `Date` class (e.g., advancing to the next year).
 4. [Happy days example](src/chapter4/Section1_Class_Definitions/Ex_4_04_Happy_days/DateFirstTry.java) — Another variation demonstrating class behaviour and demo usage.
 5. [Fractional dates (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_05_Fraction_date/DateThirdTry.java) — Example exploring more advanced date logic and representation.
+6. [Advance year (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_06_Advance_year/DateThirdTry.java) — Further examples for advancing and manipulating date objects, includes `DateThirdTryDemo`.
+7. [Pass-by-value examples](src/chapter4/Section1_Class_Definitions/Ex_4_07_Pass_by_value/Ex_4_07_Pass_by_value.java) — Demonstrates how Java passes primitives and references to methods.
+8. [Pass-by-value example (alternate)](src/chapter4/Section1_Class_Definitions/Ex_4_08_Pass_by_value/Ex_4_08_Pass_by_value.java) — Another pass-by-value illustration with variations.
+9. [Early return example](src/chapter4/Section1_Class_Definitions/Ex_4_09_Early_return/Ex_4_09_Early_return.java) — Shows how early returns can simplify method logic and control flow.
+ 
