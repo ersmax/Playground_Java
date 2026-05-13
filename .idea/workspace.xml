@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add class methods">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add date programs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -496,7 +496,7 @@
       <workItem from="1778504616190" duration="6737000" />
       <workItem from="1778512073745" duration="2940000" />
       <workItem from="1778518001273" duration="5733000" />
-      <workItem from="1778590851543" duration="28249000" />
+      <workItem from="1778590851543" duration="29444000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -618,7 +618,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778667004641</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add date programs">
+      <option name="closed" value="true" />
+      <created>1778679805432</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1778679805432</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -648,7 +656,8 @@
     <MESSAGE value="Adding examples" />
     <MESSAGE value="Change assertion" />
     <MESSAGE value="Add class methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add class methods" />
+    <MESSAGE value="Add date programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add date programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
