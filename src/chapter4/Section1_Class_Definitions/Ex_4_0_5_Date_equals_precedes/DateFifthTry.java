@@ -2,7 +2,7 @@ package chapter4.Section1_Class_Definitions.Ex_4_0_5_Date_equals_precedes;
 
 import java.util.Scanner;
 
-public class DateFourthTry {
+public class DateFifthTry {
 
     private String month;
     private int day;
@@ -16,16 +16,16 @@ public class DateFourthTry {
         System.out.println(month + " " + day + ", " + year);
     }
 
-    public boolean equals(DateFourthTry otherDate) {
+    public boolean equals(DateFifthTry otherDate) {
         return (month.equalsIgnoreCase(otherDate.month) &&
                 day == otherDate.day &&
                 year == otherDate.year);
     }
 
-    public boolean precedes(DateFourthTry otherDate) {
+    public boolean precedes(DateFifthTry otherDate) {
         return (year < otherDate.year ||
-                (year == otherDate.year && getMonth() < otherDate.getMonth()) ||
-                (year == otherDate.year && getMonth() == otherDate.getMonth() && day < otherDate.day));
+                year == otherDate.year && getMonth() < otherDate.getMonth() ||
+                year == otherDate.year && getMonth() == otherDate.getMonth() && day < otherDate.day);
     }
 
     public void setDate(int newMonth, int newDay, int newYear) {

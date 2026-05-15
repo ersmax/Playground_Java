@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add exercise this object">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add fourth date try">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_5_Date_equals_precedes/DateFourthTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_5_Date_equals_precedes/DateFifthTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_5_Date_equals_precedes/DateFourthTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_5_Date_equals_precedes/DateFourthTryDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,7 @@
   <component name="CopilotChats">
     <option name="panelChat">
       <chat>
-        <option name="activeSessionId" value="35e5fb16-1636-4171-b57d-de99ea0e84d8" />
+        <option name="activeSessionId" value="5c3527db-4317-49ce-b459-1529c96fd88c" />
         <option name="sessions">
           <session>
             <option name="chatType" value="PANEL" />
@@ -205,6 +207,73 @@
             <option name="status" value="Completed" />
             <option name="targetType" value="LOCAL" />
           </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="46b60bb6-16f3-4a72-9106-ef96d6d03adb" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="8417d319-4488-46b6-ab82-d88b5bc45c07" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="3a504ad9-7585-4814-befb-1d4e5c217e89" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="3151e888-4652-4fc3-be81-1a8ef056e1c2" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="18c83d7f-c45f-467d-af07-342121c7de39" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="5c6fd158-16b4-49af-8c01-3d5f781e86cf" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="c7309253-08db-4a72-a581-e88aea71e0e1" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="5c3527db-4317-49ce-b459-1529c96fd88c" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
         </option>
         <option name="type" value="PANEL" />
       </chat>
@@ -220,12 +289,12 @@
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
-      <entry key="agent-panel" value="Gemini 3.1 Pro" />
-      <entry key="chat-panel" value="Gemini 3.1 Pro" />
+      <entry key="agent-panel" value="GPT-5 mini" />
+      <entry key="chat-panel" value="GPT-5 mini" />
     </selectedModels>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="292" />
+    <option name="cachedIndexableFilesCount" value="306" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -279,7 +348,7 @@
         <option name="model">
           <model>
             <option name="modelType" value="builtin_family" />
-            <option name="modelValue" value="gemini-3.1-pro-preview" />
+            <option name="modelValue" value="gpt-5-mini" />
           </model>
         </option>
         <option name="targetType" value="LOCAL" />
@@ -293,6 +362,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BillingDialog.executor": "Run",
+    "Application.DateFifthTryDemo.executor": "Run",
     "Application.DateFirstTryDemo.executor": "Run",
     "Application.DateFourthTryDemo.executor": "Run",
     "Application.DateThirdTryDemo.executor": "Run",
@@ -374,7 +444,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -387,11 +457,26 @@
       <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_04_Happy_days" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter4.Section1_Class_Definitions.Ex_4_0_6_Date_Inside_Outside_views" />
       <recent name="chapter4.Section1_Class_Definitions.Ex_4_0_5_Date_equals_precedes" />
       <recent name="chapter4.Section1_Class_Definitions.Ex_4_01_Make_new_years" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="DateFourthTryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.Section1_Class_Definitions.Ex_4_0_5_Date_equals_precedes.DateFourthTryDemo" />
+      <module name="Playground" />
+      <option name="VM_PARAMETERS" value="-enableassertions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.Section1_Class_Definitions.Ex_4_0_5_Date_equals_precedes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex_3_0_7_HeadTails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.Section5_Random.Ex_3_0_7_HeadTails" />
       <module name="Playground" />
@@ -408,19 +493,6 @@
     </configuration>
     <configuration name="Ex_3_16_Lexicographic_Ordering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.Section2_Boolean_Expressions.Ex_3_16_Lexicographic_Ordering" />
-      <module name="Playground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter3.Section2_Boolean_Expressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_3_19_Boolean_expressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Section2_Boolean_Expressions.Ex_3_19_Boolean_expressions" />
       <module name="Playground" />
       <extension name="coverage">
         <pattern>
@@ -460,18 +532,28 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <module name="Playground" />
+      <selectedOptions>
+        <option name="beforeRunTasks" />
+      </selectedOptions>
       <option name="VM_PARAMETERS" value="-enableassertions" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.DateFourthTryDemo" />
+      <item itemvalue="Application.Ex_3_0_7_HeadTails" />
+      <item itemvalue="Application.Ex_3_16_Lexicographic_Ordering" />
+      <item itemvalue="Application.Ex_3_31_Loop" />
+      <item itemvalue="Application.Playground" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateFourthTryDemo" />
+        <item itemvalue="Application.Playground" />
         <item itemvalue="Application.Ex_3_0_7_HeadTails" />
         <item itemvalue="Application.Ex_3_16_Lexicographic_Ordering" />
-        <item itemvalue="Application.Playground" />
         <item itemvalue="Application.Ex_3_31_Loop" />
-        <item itemvalue="Application.Ex_3_19_Boolean_expressions" />
       </list>
     </recent_temporary>
   </component>
@@ -507,7 +589,12 @@
       <workItem from="1778512073745" duration="2940000" />
       <workItem from="1778518001273" duration="5733000" />
       <workItem from="1778590851543" duration="38453000" />
-      <workItem from="1778830980202" duration="4030000" />
+      <workItem from="1778830980202" duration="6519000" />
+      <workItem from="1778838731745" duration="347000" />
+      <workItem from="1778839113217" duration="13242000" />
+      <workItem from="1778864193212" duration="128000" />
+      <workItem from="1778864349605" duration="148000" />
+      <workItem from="1778864524076" duration="1353000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -693,7 +780,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778831494191</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add fourth date try">
+      <option name="closed" value="true" />
+      <created>1778836226081</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1778836226081</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -730,7 +825,8 @@
     <MESSAGE value="Adding exercises pass by value" />
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Add exercise this object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add exercise this object" />
+    <MESSAGE value="Add fourth date try" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add fourth date try" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
