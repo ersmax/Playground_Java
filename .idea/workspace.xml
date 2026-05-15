@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add fourth date try">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add examples of encapsulation and information hiding">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_5_Date_equals_precedes/DateFourthTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_5_Date_equals_precedes/DateFifthTry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_5_Date_equals_precedes/DateFourthTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_5_Date_equals_precedes/DateFourthTryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTryDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -594,7 +594,7 @@
       <workItem from="1778839113217" duration="13242000" />
       <workItem from="1778864193212" duration="128000" />
       <workItem from="1778864349605" duration="148000" />
-      <workItem from="1778864524076" duration="1353000" />
+      <workItem from="1778864524076" duration="2848000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -788,7 +788,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778836226081</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add examples of encapsulation and information hiding">
+      <option name="closed" value="true" />
+      <created>1778865915543</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1778865915544</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -826,7 +834,8 @@
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Add exercise this object" />
     <MESSAGE value="Add fourth date try" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add fourth date try" />
+    <MESSAGE value="Add examples of encapsulation and information hiding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add examples of encapsulation and information hiding" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

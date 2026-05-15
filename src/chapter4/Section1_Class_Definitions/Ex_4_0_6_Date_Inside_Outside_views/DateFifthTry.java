@@ -1,6 +1,8 @@
 /*
 This class differentiates between the inside view (month as String) and
-outside view (month as int). In addition, it uses Accessor and Muthator methods.
+outside view (month as int). In addition, it uses Accessor and Mutator methods.
+The mutator methods return a boolean to the caller, so it knows whether the
+input succeeds or not.
  */
 
 package chapter4.Section1_Class_Definitions.Ex_4_0_6_Date_Inside_Outside_views;
@@ -81,51 +83,50 @@ public class DateFifthTry {
             int dayInput = keyboard.nextInt();
             int yearInput = keyboard.nextInt();
             if (dateOK(monthInput, dayInput, yearInput)) {
-                setDate(monthInput, dayInput, yearInput);
-                tryAgain = false;
+                if (setDate(monthInput, dayInput, yearInput))
+                    tryAgain = false;
             }
             else
                 System.out.println("Illegal date. Reenter input.");
         }
     }
 
-    public void setDate(int month, int day, int year) {
+    public boolean setDate(int month, int day, int year) {
         if (dateOK(month, day, year)) {
             this.month = monthString(month);
             this.day = day;
             this.year = year;
+            return true;
         }
+        else
+            return false;
+    }
+
+    public boolean setMonth(int monthNumber) {
+        if (monthNumber < 1 || monthNumber > 12)
+            return false;
         else {
-            System.out.println("Fatal error");
-            System.exit(0);
-        }
-    }
-
-    public void setMonth(int monthNumber) {
-        if (monthNumber < 1 || monthNumber > 12) {
-            System.out.println("Fatal error");
-            System.exit(0);
-        }
-        else
             month = monthString(monthNumber);
+            return true;
+        }
     }
 
-    public void setDay(int dayNumber) {
-        if (dayNumber < 1 || dayNumber > 31) {
-            System.out.println("Fatal error");
-            System.exit(0);
-        }
-        else
+    public boolean setDay(int dayNumber) {
+        if (dayNumber < 1 || dayNumber > 31)
+            return false;
+        else {
             day = dayNumber;
+            return true;
+        }
     }
 
-    public void setYear(int yearNumber) {
-        if (yearNumber < 0 || yearNumber > 9999) {
-            System.out.println("Fatal error");
-            System.exit(0);
-        }
-        else
+    public boolean setYear(int yearNumber) {
+        if (yearNumber < 0 || yearNumber > 9999)
+            return false;
+        else {
             year = yearNumber;
+            return true;
+        }
     }
 
     // Private methods
