@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Update README.md">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add exercise this object">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -294,6 +294,7 @@
   "keyToString": {
     "Application.BillingDialog.executor": "Run",
     "Application.DateFirstTryDemo.executor": "Run",
+    "Application.DateFourthTryDemo.executor": "Run",
     "Application.DateThirdTryDemo.executor": "Run",
     "Application.DemoOfDateSecondTry.executor": "Run",
     "Application.Ex_1_0_3_DecimalFormat_class.executor": "Run",
@@ -348,6 +349,10 @@
     "Application.Playground.executor": "Run",
     "Application.chapter4.Section1_Class_Definitions.Playground.executor": "Run",
     "Application.playground.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -382,6 +387,7 @@
       <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_04_Happy_days" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter4.Section1_Class_Definitions.Ex_4_0_5_Date_equals_precedes" />
       <recent name="chapter4.Section1_Class_Definitions.Ex_4_01_Make_new_years" />
     </key>
   </component>
@@ -501,7 +507,7 @@
       <workItem from="1778512073745" duration="2940000" />
       <workItem from="1778518001273" duration="5733000" />
       <workItem from="1778590851543" duration="38453000" />
-      <workItem from="1778830980202" duration="490000" />
+      <workItem from="1778830980202" duration="4030000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -679,7 +685,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778693578673</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add exercise this object">
+      <option name="closed" value="true" />
+      <created>1778831494191</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1778831494191</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -715,7 +729,8 @@
     <MESSAGE value="Updating projects README.md" />
     <MESSAGE value="Adding exercises pass by value" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Add exercise this object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add exercise this object" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
