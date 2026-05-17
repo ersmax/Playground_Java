@@ -191,7 +191,7 @@ PS D:\Java\Playground\src> java -ea chapter3.Section5_Random.Ex_3_44_Random_gene
 40. [Tracing variables](src/chapter3/Section4_Debugging/Ex_3_40_Tracing_variables.java) — Shows how variable values change during execution with simple examples and tracing output.
 41. [Tracing (step trace)](src/chapter3/Section4_Debugging/Ex_3_41_Tracing.java) — Prints a step-by-step trace of execution to illustrate control flow and intermediate values.
 42. [Off-by-one error](src/chapter3/Section4_Debugging/Ex_3_42_Off_by_one_error.java) — Demonstrates a common loop bug where the loop boundary excludes the intended last value (off-by-one), with a trace to help debug.
-43. [Assertions example](src/chapter3/Section4_Debugging/Ex_3_43_Assertion.java) — Shows how to use `assert` to check program invariants and how to enable assertions when running.
+43. [Assertion example](src/chapter3/Section4_Debugging/Ex_3_43_Assertion.java) — Shows how to use `assert` to check program invariants and how to enable assertions when running.
 
 ### Ch.3 Section 5 Random number generation
 
@@ -205,17 +205,33 @@ PS D:\Java\Playground\src> java -ea chapter3.Section5_Random.Ex_3_44_Random_gene
 ## Chapter 4 Defining Classes I
 
 ### Ch.4 Section 1 Class Definitions
-- [Dates (first try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_1_Dates/DateFirstTry.java) — A basic `Date` class and demo that illustrate defining a class with fields and simple methods.
-- [Date encapsulation (second try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_2_Date_encapsulation/DateSecondTry.java) — Demonstrates encapsulation (private fields, getters/setters) and a demo class.
-- [Date parameters (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_3_Date_parameters/DateThirdTry.java) — Shows constructors and parameter passing to initialize objects.
+
+- [Dates (first try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_1_Dates/DateFirstTry.java) — A basic `Date` class and demo that illustrate defining a class with fields and simple methods (`DateFirstTryDemo.java` available).
+- [Date encapsulation (second try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_2_Date_encapsulation/DateSecondTry.java) — Demonstrates encapsulation with private fields and accessor/mutator methods (`DemoOfDateSecondTry.java`).
+- [Date parameters (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_3_Date_parameters/DateThirdTry.java) — Shows constructors and parameter passing to initialize objects (`DateThirdTryDemo.java`).
 - [Billing system (mini example)](src/chapter4/Section1_Class_Definitions/Ex_4_0_4_Billing_system/Bill.java) — Small billing-related classes and a `BillingDialog` to show organizing classes for a simple domain problem.
-1. [Make new years example](src/chapter4/Section1_Class_Definitions/Ex_4_01_Make_new_years/DateFirstTry.java) — Variation that constructs and manipulates `Date` objects to show object interactions.
-2. [Yell new year example](src/chapter4/Section1_Class_Definitions/Ex_4_02_Yell_new_year/DateFirstTry.java) — Demonstrates method calls between objects and printing formatted output.
-3. [Next year example](src/chapter4/Section1_Class_Definitions/Ex_4_03_Next_year/DateFirstTry.java) — Illustrates adding behaviour to a `Date` class (e.g., advancing to the next year).
-4. [Happy days example](src/chapter4/Section1_Class_Definitions/Ex_4_04_Happy_days/DateFirstTry.java) — Another variation demonstrating class behaviour and demo usage.
-5. [Fractional dates (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_05_Fraction_date/DateThirdTry.java) — Example exploring more advanced date logic and representation.
-6. [Advance year (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_06_Advance_year/DateThirdTry.java) — Further examples for advancing and manipulating date objects, includes `DateThirdTryDemo`.
+- [Date equals/precedes (fourth/fifth try)](src/chapter4/Section1_Class_Definitions/Ex_4_0_5_Date_equals_precedes/DateFifthTry.java) — Examples adding `equals`/`precedes` semantics and demo `DateFourthTryDemo.java`.
+1. [Make new years example](src/chapter4/Section1_Class_Definitions/Ex_4_01_Make_new_years/DateFirstTry.java) — Constructs and manipulates `Date` objects to show object interactions (`DateFirstTryDemo.java`).
+2. [Yell new year example](src/chapter4/Section1_Class_Definitions/Ex_4_02_Yell_new_year/DateFirstTry.java) — Demonstrates method calls between objects and printing formatted output (`DateFirstTryDemo.java`).
+3. [Next year example](src/chapter4/Section1_Class_Definitions/Ex_4_03_Next_year/DateFirstTry.java) — Illustrates adding behaviour to a `Date` class (e.g., advancing to the next year) (`DateFirstTryDemo.java`).
+4. [Happy days example](src/chapter4/Section1_Class_Definitions/Ex_4_04_Happy_days/DateFirstTry.java) — Variation demonstrating class behaviour and demo usage (`DateFirstTryDemo.java`).
+5. [Fractional dates (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_05_Fraction_date/DateThirdTry.java) — Example exploring more advanced date logic and representation (`DateThirdTryDemo.java`).
+6. [Advance year (third try)](src/chapter4/Section1_Class_Definitions/Ex_4_06_Advance_year/DateThirdTry.java) — Examples for advancing and manipulating date objects (`DateThirdTryDemo.java`).
 7. [Pass-by-value examples](src/chapter4/Section1_Class_Definitions/Ex_4_07_Pass_by_value/Ex_4_07_Pass_by_value.java) — Demonstrates how Java passes primitives and references to methods.
 8. [Pass-by-value example (alternate)](src/chapter4/Section1_Class_Definitions/Ex_4_08_Pass_by_value/Ex_4_08_Pass_by_value.java) — Another pass-by-value illustration with variations.
 9. [Early return example](src/chapter4/Section1_Class_Definitions/Ex_4_09_Early_return/Ex_4_09_Early_return.java) — Shows how early returns can simplify method logic and control flow.
- 
+10. [Methods and testing examples](src/chapter4/Section1_Class_Definitions/Ex_4_10_Methods/Ex_4_10_Methods.java) — Demonstrates defining and calling methods in classes; includes small testing helpers.
+11. [This parameter / Demo variations](src/chapter4/Section1_Class_Definitions/Ex_4_11_This_parameter/DateSecondTry.java) — Examples illustrating use of `this` and related demo classes.
+12. [This parameter (alternate)](src/chapter4/Section1_Class_Definitions/Ex_4_12_This_parameter/DateSecondTry.java) — More examples of `this` usage and `DemoOfDateSecondTry.java`.
+13. [Precedes example](src/chapter4/Section1_Class_Definitions/Ex_4_13_Precedes/Ex_4_13_Precedes.java) — Utility showing comparison behaviour between date objects.
+14. [Testing example](src/chapter4/Section1_Class_Definitions/Ex_4_14_Testing/Ex_4_14_Testing.java) — Notes and a minimal class demonstrating the principle of incremental testing for methods.
+
+### Ch.4 Section 2 Information Hiding and Encapsulation
+
+- [Date inside/outside views](src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTry.java) — Shows how private fields can be exposed safely via controlled access; includes `DateFifthTryDemo.java`.
+15. [Private instance variable example](src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_15_Private_instance_variable/Ex_4_15_Private_instance_variable.java) — Demonstrates why instance variables are usually private and how this affects callers.
+16. [Private methods example](src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_16_Private_methods/Ex_4_16_Private_methods.java) — Shows splitting internal helper logic into `private` methods to keep API minimal.
+17. [Accessor methods example](src/chapter4/Section2_Information_hiding_Encapsulation/EX_4_17_Accessor_methods/Ex_4_17_Accessor_methods.java) — Shows writing accessor (getter) methods and using them in demos.
+18. [Mutator methods example](src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_18_Mutator_methods/Ex_4_18_Mutator_methods.java) — Demonstrates mutator (setter) methods and controlled mutation.
+19. [Leap years & validation](src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_19_Leap_years/Ex_4_19_Leap_years.java) — Examples that validate dates and compute leap-year logic; includes `DateFifthTry.java` and `DateFifthTryDemo.java`.
+
