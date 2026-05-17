@@ -4,10 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add examples of encapsulation and information hiding">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add examples of mutator returning a boolean">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_01_Make_new_years/DateFirstTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_01_Make_new_years/DateFirstTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_01_Make_new_years/DateFirstTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_01_Make_new_years/DateFirstTryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_02_Yell_new_year/DateFirstTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_02_Yell_new_year/DateFirstTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_02_Yell_new_year/DateFirstTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_02_Yell_new_year/DateFirstTryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_03_Next_year/DateFirstTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_03_Next_year/DateFirstTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_03_Next_year/DateFirstTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_03_Next_year/DateFirstTryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_04_Happy_days/DateFirstTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_04_Happy_days/DateFirstTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_04_Happy_days/DateFirstTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_04_Happy_days/DateFirstTryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_05_Fraction_date/DateThirdTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_05_Fraction_date/DateThirdTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_05_Fraction_date/DateThirdTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_05_Fraction_date/DateThirdTryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_06_Advance_year/DateThirdTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_06_Advance_year/DateThirdTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_06_Advance_year/DateThirdTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_06_Advance_year/DateThirdTryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_07_Pass_by_value/Ex_4_07_Pass_by_value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_07_Pass_by_value/Ex_4_07_Pass_by_value.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_08_Pass_by_value/Ex_4_08_Pass_by_value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_08_Pass_by_value/Ex_4_08_Pass_by_value.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_09_Early_return/Ex_4_09_Early_return.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_09_Early_return/Ex_4_09_Early_return.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_0_6_Date_Inside_Outside_views/DateFifthTryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_10_Methods/Ex_4_10_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_10_Methods/Ex_4_10_Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_11_This_parameter/DateSecondTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_11_This_parameter/DateSecondTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_11_This_parameter/DemoOfDateSecondTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_11_This_parameter/DemoOfDateSecondTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_11_This_parameter/Ex_4_11_This_parameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_11_This_parameter/Ex_4_11_This_parameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_12_This_parameter/DateSecondTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_12_This_parameter/DateSecondTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_12_This_parameter/DemoOfDateSecondTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_12_This_parameter/DemoOfDateSecondTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_12_This_parameter/Ex_4_12_This_parameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_12_This_parameter/Ex_4_12_This_parameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_13_Precedes/Ex_4_13_Precedes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_13_Precedes/Ex_4_13_Precedes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_14_Testing/Ex_4_14_Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_14_Testing/Ex_4_14_Testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_15_Private_instance_variable/Ex_4_15_Private_instance_variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_15_Private_instance_variable/Ex_4_15_Private_instance_variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section1_Class_Definitions/Ex_4_16_Private_methods/Ex_4_16_Private_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_16_Private_methods/Ex_4_16_Private_methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +43,7 @@
   <component name="CopilotChats">
     <option name="panelChat">
       <chat>
-        <option name="activeSessionId" value="5c3527db-4317-49ce-b459-1529c96fd88c" />
+        <option name="activeSessionId" value="5b8b6565-e9f6-49f0-bdc0-c4abbec1b30e" />
         <option name="sessions">
           <session>
             <option name="chatType" value="PANEL" />
@@ -274,6 +300,23 @@
             <option name="status" value="Completed" />
             <option name="targetType" value="LOCAL" />
           </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="b2a096b7-5434-4de2-99a2-7b966dee8cc7" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="5b8b6565-e9f6-49f0-bdc0-c4abbec1b30e" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
         </option>
         <option name="type" value="PANEL" />
       </chat>
@@ -294,7 +337,7 @@
     </selectedModels>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="306" />
+    <option name="cachedIndexableFilesCount" value="307" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -435,7 +478,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java/Playground/src/chapter4/Section1_Class_Definitions/Ex_4_12_This_parameter",
+    "last_opened_file_path": "D:/Java/Playground/src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_19_Leap_years",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -450,11 +493,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Playground\src\chapter4\Section2_Information_hiding_Encapsulation\Ex_4_19_Leap_years" />
       <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_12_This_parameter" />
       <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_11_This_parameter" />
       <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_06_Advance_year" />
       <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_05_Fraction_date" />
-      <recent name="D:\Java\Playground\src\chapter4\Section1_Class_Definitions\Ex_4_04_Happy_days" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="chapter4.Section1_Class_Definitions.Ex_4_0_6_Date_Inside_Outside_views" />
@@ -462,7 +505,7 @@
       <recent name="chapter4.Section1_Class_Definitions.Ex_4_01_Make_new_years" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DateFourthTryDemo">
     <configuration name="DateFourthTryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter4.Section1_Class_Definitions.Ex_4_0_5_Date_equals_precedes.DateFourthTryDemo" />
       <module name="Playground" />
@@ -594,7 +637,9 @@
       <workItem from="1778839113217" duration="13242000" />
       <workItem from="1778864193212" duration="128000" />
       <workItem from="1778864349605" duration="148000" />
-      <workItem from="1778864524076" duration="2848000" />
+      <workItem from="1778864524076" duration="3546000" />
+      <workItem from="1778951436273" duration="950000" />
+      <workItem from="1779047608648" duration="1986000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -796,7 +841,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778865915544</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add examples of mutator returning a boolean">
+      <option name="closed" value="true" />
+      <created>1778867451773</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1778867451773</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -835,7 +888,8 @@
     <MESSAGE value="Add exercise this object" />
     <MESSAGE value="Add fourth date try" />
     <MESSAGE value="Add examples of encapsulation and information hiding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add examples of encapsulation and information hiding" />
+    <MESSAGE value="Add examples of mutator returning a boolean" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add examples of mutator returning a boolean" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
