@@ -9,6 +9,29 @@ if the year is a leap year: A year is a leap year if it is divisible by 4 but is
 divisible by 100, or if it is divisible by 400.
  */
 
+/*
+public boolean isLeapYear(int year) {
+    return (year % 4 == 0 && year % 100 != 0 ||
+            year % 400 == 0);
+}
+
+private boolean dateOK(int monthInt, int dayInt, int yearInt) {
+    int maxDays = 31;
+    if (monthInt == 4 || monthInt == 6 || monthInt == 9 || monthInt == 11)
+        maxDays = 30;
+    else if (monthInt == 2)
+        if (isLeapYear(yearInt))
+            maxDays = 29;
+        else
+            maxDays = 28;
+
+    return (monthInt > 0 && monthInt < 13 &&
+            dayInt > 0 && dayInt <= maxDays &&
+            yearInt > 0 && yearInt <= 9999);
+}
+
+ */
+
 package chapter4.Section2_Information_hiding_Encapsulation.Ex_4_19_Leap_years;
 
 public class Ex_4_19_Leap_years {
