@@ -235,3 +235,10 @@ PS D:\Java\Playground\src> java -ea chapter3.Section5_Random.Ex_3_44_Random_gene
 18. [Mutator methods example](src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_18_Mutator_methods/Ex_4_18_Mutator_methods.java) — Demonstrates mutator (setter) methods and controlled mutation.
 19. [Leap years & validation](src/chapter4/Section2_Information_hiding_Encapsulation/Ex_4_19_Leap_years/Ex_4_19_Leap_years.java) — Examples that validate dates and compute leap-year logic; includes `DateFifthTry.java` and `DateFifthTryDemo.java`.
 
+### Ch.4 Section 3 Overloading
+
+- [Overloading setDate / setMonth](src/chapter4/Section3_Overloading/Ex_4_0_7_Overloading_set_date/DateSixthTry.java) — `DateSixthTry` shows overloaded `setDate`/`setMonth` methods (int vs String), validation helpers, and includes a demo (`DateSixthTryDemo.java`).
+20. [Method signature exercise](src/chapter4/Section3_Overloading/Ex_4_20_Signature/Ex_4_20_Signature.java) — Short exercise on method signatures and what constitutes a method signature in Java.
+21. [Overloading allowed example](src/chapter4/Section3_Overloading/Ex_4_21_Overloading/Ex_4_21_Overloading.java) — Notes that overloading is legal when method signatures differ (e.g., `setMonth(int)` vs `setMonth(String)`).
+22. [Overloading pitfall: same signature](src/chapter4/Section3_Overloading/Ex_4_22_Overloading_pitfall/Ex_4_22_Overloading_pitfall.java) — Explains that methods with the same signature (even if one is `private`) cannot both exist — not an overload.
+23. [Overloading pitfall: return type only](src/chapter4/Section3_Overloading/Ex_4_23_Overloading_pitfall/Ex_4_23_Overloading_pitfall.java) — Demonstrates that you cannot overload methods by return type alone; the parameter list must differ.
