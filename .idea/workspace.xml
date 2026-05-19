@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add overloading ex">
+    <list default="true" id="abfdd2e8-825b-4e7d-a42f-03025614d034" name="Changes" comment="Add Date class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section3_Overloading/Ex_4_0_7_Overloading_set_date/DateSixthTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section3_Overloading/Ex_4_0_7_Overloading_set_date/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section3_Overloading/Ex_4_0_7_Overloading_set_date/DateSixthTryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section3_Overloading/Ex_4_0_7_Overloading_set_date/DateSixthTryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Section4_Constructors/Ex_4_0_8_Date/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Section4_Constructors/Ex_4_0_8_Date/Date.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,7 @@
   <component name="CopilotChats">
     <option name="panelChat">
       <chat>
-        <option name="activeSessionId" value="dc82dc99-7580-4056-aab5-c04257da2f84" />
+        <option name="activeSessionId" value="0d84c411-5bb5-41fe-92f6-0c8104f29105" />
         <option name="sessions">
           <session>
             <option name="chatType" value="PANEL" />
@@ -202,7 +205,7 @@
             <option name="modeId" value="Agent" />
             <option name="modelType" value="builtin_family" />
             <option name="modelValue" value="gpt-5-mini" />
-            <option name="status" value="Completed" />
+            <option name="status" value="Processing" />
             <option name="targetType" value="LOCAL" />
           </session>
           <session>
@@ -305,6 +308,14 @@
             <option name="modelValue" value="gpt-5-mini" />
             <option name="targetType" value="LOCAL" />
           </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="0d84c411-5bb5-41fe-92f6-0c8104f29105" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5-mini" />
+            <option name="targetType" value="LOCAL" />
+          </session>
         </option>
         <option name="type" value="PANEL" />
       </chat>
@@ -325,7 +336,7 @@
     </selectedModels>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="314" />
+    <option name="cachedIndexableFilesCount" value="319" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -390,96 +401,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BillingDialog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateFifthTryDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateFirstTryDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateFourthTryDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateSixthTryDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateThirdTryDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoOfDateSecondTry.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_1_0_3_DecimalFormat_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_0_1_Format_specifiers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_0_1_Scanner_input.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_0_2_NumberFormat_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_0_2_Scanner_input2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_0_3_DecimalFormat_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_0_3_Self_service.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_0_4_Output_Input_Delimiters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_0_5_Read_File.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_13_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_14_Scanner_line.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_15_Scanne_nextLine.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_16_Comma_Delimiter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_19_Try_Catch_File_Open.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_1_Output.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_2_Output.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_4_Output.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_5_Format_string_output.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_6_Format_specifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_7_eNotation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_2_8_NumberFormatter_currency_output.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_0_1_Income_Tax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_0_2_Car_Toll.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_0_4_Comparing_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_0_5_Loops_demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_0_6_Average.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Ex_3_0_7_HeadTails.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_10_Switch_Output_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_11_Switch_Output_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_12_Switch_Output_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_13_Greater_Equal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_16_Lexicographic_Ordering.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_17_Passed_Failed.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_18_Emergency.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_19_Boolean_expressions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_29_Loop.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Ex_3_31_Loop.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Ex_3_33_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_40_Tracing_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_41_Tracing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_42_Off_by_one_error.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_44_Random_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_45_Random_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_46_Random_Math_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_5_Output.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_6_Output_Small.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_7_Output_Medium.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_8_Multiway_Output.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex_3_9_Switch_Output.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Playground.executor&quot;: &quot;Run&quot;,
-    &quot;Application.chapter4.Section1_Class_Definitions.Playground.executor&quot;: &quot;Run&quot;,
-    &quot;Application.playground.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java/Playground/src/chapter4/Section3_Overloading/Ex_4_0_Overloading_set_date&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BillingDialog.executor": "Run",
+    "Application.DateDemo.executor": "Run",
+    "Application.DateFifthTryDemo.executor": "Run",
+    "Application.DateFirstTryDemo.executor": "Run",
+    "Application.DateFourthTryDemo.executor": "Run",
+    "Application.DateSixthTryDemo.executor": "Run",
+    "Application.DateThirdTryDemo.executor": "Run",
+    "Application.DemoOfDateSecondTry.executor": "Run",
+    "Application.Ex_1_0_3_DecimalFormat_class.executor": "Run",
+    "Application.Ex_2_0_1_Format_specifiers.executor": "Run",
+    "Application.Ex_2_0_1_Scanner_input.executor": "Run",
+    "Application.Ex_2_0_2_NumberFormat_class.executor": "Run",
+    "Application.Ex_2_0_2_Scanner_input2.executor": "Run",
+    "Application.Ex_2_0_3_DecimalFormat_class.executor": "Run",
+    "Application.Ex_2_0_3_Self_service.executor": "Run",
+    "Application.Ex_2_0_4_Output_Input_Delimiters.executor": "Run",
+    "Application.Ex_2_0_5_Read_File.executor": "Run",
+    "Application.Ex_2_13_Sum.executor": "Run",
+    "Application.Ex_2_14_Scanner_line.executor": "Run",
+    "Application.Ex_2_15_Scanne_nextLine.executor": "Run",
+    "Application.Ex_2_16_Comma_Delimiter.executor": "Run",
+    "Application.Ex_2_19_Try_Catch_File_Open.executor": "Run",
+    "Application.Ex_2_1_Output.executor": "Run",
+    "Application.Ex_2_2_Output.executor": "Run",
+    "Application.Ex_2_4_Output.executor": "Run",
+    "Application.Ex_2_5_Format_string_output.executor": "Run",
+    "Application.Ex_2_6_Format_specifier.executor": "Run",
+    "Application.Ex_2_7_eNotation.executor": "Run",
+    "Application.Ex_2_8_NumberFormatter_currency_output.executor": "Run",
+    "Application.Ex_3_0_1_Income_Tax.executor": "Run",
+    "Application.Ex_3_0_2_Car_Toll.executor": "Run",
+    "Application.Ex_3_0_4_Comparing_String.executor": "Run",
+    "Application.Ex_3_0_5_Loops_demo.executor": "Run",
+    "Application.Ex_3_0_6_Average.executor": "Debug",
+    "Application.Ex_3_0_7_HeadTails.executor": "Run",
+    "Application.Ex_3_10_Switch_Output_2.executor": "Run",
+    "Application.Ex_3_11_Switch_Output_3.executor": "Run",
+    "Application.Ex_3_12_Switch_Output_4.executor": "Run",
+    "Application.Ex_3_13_Greater_Equal.executor": "Run",
+    "Application.Ex_3_16_Lexicographic_Ordering.executor": "Run",
+    "Application.Ex_3_17_Passed_Failed.executor": "Run",
+    "Application.Ex_3_18_Emergency.executor": "Run",
+    "Application.Ex_3_19_Boolean_expressions.executor": "Run",
+    "Application.Ex_3_29_Loop.executor": "Debug",
+    "Application.Ex_3_31_Loop.executor": "Debug",
+    "Application.Ex_3_33_Loop.executor": "Run",
+    "Application.Ex_3_40_Tracing_variables.executor": "Run",
+    "Application.Ex_3_41_Tracing.executor": "Run",
+    "Application.Ex_3_42_Off_by_one_error.executor": "Run",
+    "Application.Ex_3_44_Random_generator.executor": "Run",
+    "Application.Ex_3_45_Random_generator.executor": "Run",
+    "Application.Ex_3_46_Random_Math_class.executor": "Run",
+    "Application.Ex_3_5_Output.executor": "Run",
+    "Application.Ex_3_6_Output_Small.executor": "Run",
+    "Application.Ex_3_7_Output_Medium.executor": "Run",
+    "Application.Ex_3_8_Multiway_Output.executor": "Run",
+    "Application.Ex_3_9_Switch_Output.executor": "Run",
+    "Application.Playground.executor": "Run",
+    "Application.chapter4.Section1_Class_Definitions.Playground.executor": "Run",
+    "Application.playground.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java/Playground/src/chapter4/Section3_Overloading/Ex_4_0_Overloading_set_date",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\Playground\src\chapter4\Section3_Overloading\Ex_4_0_Overloading_set_date" />
@@ -494,7 +506,7 @@
       <recent name="chapter4.Section1_Class_Definitions.Ex_4_01_Make_new_years" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateFourthTryDemo">
+  <component name="RunManager">
     <configuration name="DateFourthTryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter4.Section1_Class_Definitions.Ex_4_0_5_Date_equals_precedes.DateFourthTryDemo" />
       <module name="Playground" />
@@ -629,7 +641,8 @@
       <workItem from="1778864524076" duration="3546000" />
       <workItem from="1778951436273" duration="950000" />
       <workItem from="1779047608648" duration="4962000" />
-      <workItem from="1779134273352" duration="2990000" />
+      <workItem from="1779134273352" duration="3041000" />
+      <workItem from="1779222229633" duration="2827000" />
     </task>
     <task id="LOCAL-00001" summary="Adding comment to test repo">
       <option name="closed" value="true" />
@@ -871,7 +884,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779135092564</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add Date class">
+      <option name="closed" value="true" />
+      <created>1779137307254</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1779137307254</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -889,7 +910,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding boolean checks" />
     <MESSAGE value="Addinng sequences" />
     <MESSAGE value="Adding avg and loop demo" />
     <MESSAGE value="Update project description" />
@@ -914,7 +934,8 @@
     <MESSAGE value="Add overloading date" />
     <MESSAGE value="Add leap" />
     <MESSAGE value="Add overloading ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add overloading ex" />
+    <MESSAGE value="Add Date class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Date class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

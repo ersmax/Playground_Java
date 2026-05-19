@@ -9,19 +9,19 @@ package chapter4.Section3_Overloading.Ex_4_0_7_Overloading_set_date;
 
 import java.util.Scanner;
 
-public class DateSixthTry {
+public class Date {
 
     private String month;
     private int day;
     private int year;
 
-    public boolean equals(DateSixthTry otherDate) {
+    public boolean equals(Date otherDate) {
         return (month.equalsIgnoreCase(otherDate.month) &&
                 day == otherDate.day &&
                 year == otherDate.year);
     }
 
-    public boolean precedes(DateSixthTry otherDate) {
+    public boolean precedes(Date otherDate) {
         return (year < otherDate.year ||
                 year == otherDate.year && getMonth() < otherDate.getMonth() ||
                 year == otherDate.year && getMonth() == otherDate.getMonth() && day < otherDate.day);

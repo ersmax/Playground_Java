@@ -1,9 +1,10 @@
-package chapter4.Section3_Overloading.Ex_4_0_7_Overloading_set_date;
+package chapter4.Section4_Constructors.Ex_4_0_8_Date;
+
+import chapter4.Section3_Overloading.Ex_4_0_7_Overloading_set_date.Date;
 
 import java.util.Scanner;
 
-public class DateSixthTryDemo {
-
+public class DateDemo {
     public static void main(String[] args) {
         Date date = new Date();
         date.readInput();
